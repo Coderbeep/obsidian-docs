@@ -37,7 +37,7 @@ Hirarki memberi kita No. 1, dan penautan memberi kita No. 2. Kami masih tidak ya
 
 Mencatat adalah aktivitas yang sangat personal. Alamiahnya tidak ada satu solusi untuk semuanya.
 
-Alih-alih menyediakan Anda produk yang sugestif dan telah terakit, [[Obsidian]] memberi Anda fondasi dan beragam blok fungsional membangun untuk menemukan dan membangun solusi Anda sendiri.
+Alih-alih menyediakan Anda produk yang sugestif dan telah terakit, [[id/Obsidian/Obsidian]] memberi Anda fondasi dan beragam blok fungsional membangun untuk menemukan dan membangun solusi Anda sendiri.
 
 Fondasinya untuk dapat melihat berkas-berkas, mengubahnya, dan mencarinya. Untuk yang sederhana, itu lebih dari cukup.
 

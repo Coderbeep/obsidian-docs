@@ -4,7 +4,7 @@ Puede abrir otra Bóveda en cualquier lugar de su computadora, y conservará sus
 
 Se puede abrir una bóveda nueva o existente desde el botón que se encuentra justo encima del engranaje de Configuración.
 
-![[Vault picker.png]]
+![[zh/附件/Vault picker.png]]
 
 Tiene la opción de abrir una carpeta existente de archivos Markdown, crear una nueva bóveda (que básicamente crea una nueva carpeta en la que colocará los archivos Markdown) o abrir una bóveda especial que contenga estos archivos de ayuda. La bóveda de ayuda se almacena en un directorio de Obsidian especial (ver [[Cómo almacena Obsidian los datos]]), pero aparte de eso, es un directorio de archivos como cualquier otro.
 

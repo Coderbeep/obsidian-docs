@@ -1,8 +1,8 @@
-The workspace in [[Obsidian]] contains the follow components:
+The workspace in [[fr/Obsidian]] contains the follow components:
 
-- [[Sidebar|Sidebars]]
-  - [[Sidebar#Panes|Sidebar panes]]
-    - [[Sidebar#Tabs|Sidebar tabs]]
-  - [[Ribbon]] (left sidebar only)
+- [[en/User interface/Workspace/Sidebar|Sidebars]]
+  - [[en/User interface/Workspace/Sidebar#Panes|Sidebar panes]]
+    - [[en/User interface/Workspace/Sidebar#Tabs|Sidebar tabs]]
+  - [[en/User interface/Workspace/Ribbon]] (left sidebar only)
 - [[Pane layout|Panes]]
-- [[Status bar]]
+- [[en/User interface/Workspace/Status bar]]

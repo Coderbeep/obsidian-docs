@@ -23,7 +23,7 @@ I fremtiden overvejer vi mere brugervenlige måder a håndtere aliasser en ved a
 
 Når du har sat et alias for en fil kan du skrive `[[alias]]` for at linke til den originale note. Et redirigeringsikon dukker op i den automatiske liste med forslag sådan:
 
-![[Insert alises.png]]
+![[ja/アタッチメント/Insert alises.png]]
 
 Et internt link med visningstekst bliver indsat sådan: `[[Tilføj aliasser til note|alias]]`.
 

@@ -22,7 +22,7 @@ Incrustar otro archivo (leer más sobre [[Incrustar archivos]]). Aquí hay una s
 ![[Obsidian#¿Qué es Obsidian]]
 ```
 
-![[Obsidian#¿Qué es Obsidian]]
+![[fr/Obsidian#¿Qué es Obsidian]]
 
 ---
 

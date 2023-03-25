@@ -1,6 +1,6 @@
 Hai! Saya adalah catatan dalam vault Anda.
 
-Di saat yang sama, saya juga hanya berkas Markdown yang berada di hard disk Anda. Semua berbentuk teks biasa, Sehingga Anda tidak perlu khawatir kehilangan saya jika [[Obsidian]] menghilang suatu hari nanti.
+Di saat yang sama, saya juga hanya berkas Markdown yang berada di hard disk Anda. Semua berbentuk teks biasa, Sehingga Anda tidak perlu khawatir kehilangan saya jika [[id/Obsidian/Obsidian]] menghilang suatu hari nanti.
 
 ## Mulai Cepat
 
@@ -16,7 +16,7 @@ Jika Anda tidak sabar, ini beberapa tempat yang cepat untuk didalami:
 - Obsidian dapat diperluas dengan [[Plugin inti|plugin]]. Beberapa tersedia secara bawaan, dan dapat diaktifkan atau dinonaktifkan sesuai kebutuhan Anda.
 
 
-Jika Anda ingin pengenalan lebih dalam, termasuk sedikit tentang filosofi kami, periksalah [[Obsidian]].
+Jika Anda ingin pengenalan lebih dalam, termasuk sedikit tentang filosofi kami, periksalah [[id/Obsidian/Obsidian]].
 
 Dan jika Anda suka pengenalan yang ramah, atau hanya ingin memulai tetapi tidak tahu bagaimana melakukannya, pergilah ke [[Dasar mencatat]].
 
@@ -34,7 +34,7 @@ Jika Anda telah memiliki koleksi catatan berformat Markdown, cukup pilih mereka 
 
 Jika Anda memiliki catatan dari Roam Research, Notion, atau aplikasi lain, [[Mengimpor data|berikut ini cara mengimpor mereka]].
 
-Jika Anda ingin tahu lebih lanjut tentang Obsidian, Anda bisa [[Obsidian|membaca cerita tentang kami]].
+Jika Anda ingin tahu lebih lanjut tentang Obsidian, Anda bisa [[id/Obsidian/Obsidian|membaca cerita tentang kami]].
 
 Ngomong-ngomong, Anda bebas mengubah dokumen bantuan ini, tetapi ketika Anda membukanya kembali, mereka akan tertimpa. Jadi, jangan masukkan apa pun di tempat yang ingin Anda simpan.
 

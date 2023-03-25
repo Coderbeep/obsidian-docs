@@ -6,7 +6,7 @@ Es uno de los complementos cruciales que le recomendamos que mantenga habilitado
 
 1. Sin embargo, si la lista de archivos está saturando la interfaz, puede cerrarla:
 
-![[Pasted image 15.png]]
+![[zh/附件/Pasted image 15.png]]
 
 2. Puede arrastrar y soltar para poner un archivo en otra carpeta.
 

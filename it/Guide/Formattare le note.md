@@ -22,7 +22,7 @@ Maggiori informazioni su [[Incorporare file]]. Ecco una sezione incorporata:
 ![[Obsidian#Cos'è Obsidian]]
 ```
 
-![[Obsidian#Cos'è Obsidian]]
+![[fr/Obsidian#Cos'è Obsidian]]
 
 ---
 
@@ -130,7 +130,7 @@ http://obsidian.md - automatico!
 http://obsidian.md - automatico!
 [Obsidian](http://obsidian.md)
 
-I collegamenti Markdown possono essere utilizzati per puntare a oggetti esterni, come pagine web, oppure per riferirsi a pagine interne o immagini. Se ci sono spazi nell'indirizzo, si può usare una sequenza di escape come `%20` al posto dello spazio, per esempio come in [Opzioni di esportazione](Pasted%20Image.png), o racchiudendo il testo in `<>`, come [Dimostrazione Diapositive](<Dimostrazione Diapositive>).
+I collegamenti Markdown possono essere utilizzati per puntare a oggetti esterni, come pagine web, oppure per riferirsi a pagine interne o immagini. Se ci sono spazi nell'indirizzo, si può usare una sequenza di escape come `%20` al posto dello spazio, per esempio come in [Opzioni di esportazione](zh/附件/Pasted%20image.png), o racchiudendo il testo in `<>`, come [Dimostrazione Diapositive](<Dimostrazione Diapositive>).
 
 ---
 

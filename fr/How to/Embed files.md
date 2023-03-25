@@ -1,12 +1,12 @@
 You can embed attachment files like images or audio in your notes. Use the `![[filename.png]]` syntax like so:
 
-![[Engelbart.jpg]]
+![[zh/附件/Engelbart.jpg]]
 
-![[Excerpt from Mother of All Demos (1968).ogg]]
+![[zh/附件/Excerpt from Mother of All Demos (1968).ogg]]
 
 You can embed a note also, with the same syntax:
 
-![[Accepted file formats]]
+![[en/Advanced topics/Accepted file formats]]
 
 If you drag and drop an image it will be copied to your default attachment directory. The image is there as a normal file and can still be accessed through the file system. You can define the directory that images will be saved to by right clicking on it in the File explorer, and finding that option on the context menu. 
 

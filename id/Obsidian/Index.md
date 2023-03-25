@@ -26,7 +26,7 @@ Untuk lebih lanjut mengenai pembuat aplikasi, lihat [laman tentang](https://obsi
 
 ### Tentang aplikasi
 
-- Lihat [[Obsidian|filosofi kami mengenai aplikasi]].
+- Lihat [[id/Obsidian/Obsidian|filosofi kami mengenai aplikasi]].
 
 ### Memulai
 

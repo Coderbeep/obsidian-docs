@@ -1,4 +1,4 @@
-You can set up a custom domain or subdomain for your [[Introduction to Obsidian Publish|Obsidian Publish]] site.
+You can set up a custom domain or subdomain for your [[en/Obsidian Publish/Introduction to Obsidian Publish|Obsidian Publish]] site.
 
 We don't yet have a way to provision SSL certificate on your behalf. If you want to enable HTTPS for a custom domain, you either need to use your own proxy or create a site on CloudFlare.
 

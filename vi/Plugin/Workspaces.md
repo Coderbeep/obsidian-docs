@@ -1,7 +1,7 @@
 
 Plugin Workspaces cho phép bạn lưu và tải "workspaces". Mỗi không gian làm việc bao gồm bố cục ngăn, trạng thái sidebar (mở rộng hoặc thu gọn) và trạng thái mở file.
 
-![[Pasted image 19.png]]
+![[ja/アタッチメント/Pasted image 19.png]]
 
 ### Lưu không gian làm việc
 

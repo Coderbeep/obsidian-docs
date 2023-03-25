@@ -6,7 +6,7 @@ Slides cho phép bạn thực hiện các bài thuyết trình đơn giản ngay
 
 2. Để bắt đầu bản trình bày, hãy nhấp vào nút này sau khi mở ghi chú:
 
-![[Pasted image 14.png]]
+![[zh/附件/Pasted image 14.png]]
 
 ### Demo
 

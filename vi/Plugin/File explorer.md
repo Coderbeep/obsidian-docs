@@ -6,7 +6,7 @@ File explorer hiển thị [[Định dạng file được chấp nhận|danh sá
 
 1. Nếu danh sách các file đang lộn xộn trên giao diện, bạn có thể đóng nó lại:
 
-![[Pasted image 15.png]]
+![[zh/附件/Pasted image 15.png]]
 
 2. Bạn có thể kéo và thả để đặt một file vào một thư mục khác.
 

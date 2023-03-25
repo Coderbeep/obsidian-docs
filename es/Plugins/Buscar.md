@@ -1,4 +1,4 @@
-![[Search.png]]
+![[zh/附件/Search.png]]
 
 La búsqueda es una función poderosa y tiene el potencial de ser confusa. En la mayoría de los casos, si escribe lo que desea encontrar, funcionará. Pero la búsqueda tiene muchas capacidades para acotar y encontrar exactamente lo que desea.
 

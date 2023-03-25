@@ -5,8 +5,8 @@ Learn how you can get help and support resources when using Obsidian or any of o
 If you have question of need help with any of the following, you can [email the Obsidian team](mailto:support@obsidian.md) for support:
 
 - Account and billing support.
-- Support related to our paid services, such as [[Introduction to Obsidian Publish|Obsidian Publish]] and [[Introduction to Obsidian Sync|Obsidian Sync]].
-- Support regarding licenses, such as [[Catalyst license]] or [[Commercial license]].
+- Support related to our paid services, such as [[en/Obsidian Publish/Introduction to Obsidian Publish|Obsidian Publish]] and [[en/Obsidian Sync/Introduction to Obsidian Sync|Obsidian Sync]].
+- Support regarding licenses, such as [[en/Licenses and payment/Catalyst license]] or [[en/Licenses and payment/Commercial license]].
 
 ## Questions and advice
 
@@ -30,9 +30,9 @@ If you've discovered a security issue in Obsidian, or if you suspect that a plug
 
 ## Report a Code of Conduct violation
 
-Regardless of if you're the victim or a witness of a violation of our [[Community code of conduct]], you can report the incident to the moderator team.
+Regardless of if you're the victim or a witness of a violation of our [[en/Obsidian/Community code of conduct]], you can report the incident to the moderator team.
 
 Report the incident on one of the following community channels:
 
-- [[Community code of conduct#Report on Discord|Report on Discord]]
-- [[Community code of conduct#Report on the forum|Report on the forum]]
+- [[en/Obsidian/Community code of conduct#Report on Discord|Report on Discord]]
+- [[en/Obsidian/Community code of conduct#Report on the forum|Report on the forum]]

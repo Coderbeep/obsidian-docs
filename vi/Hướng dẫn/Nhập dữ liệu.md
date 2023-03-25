@@ -22,10 +22,10 @@ Cũng cần lưu ý, các nhà sản xuất nvUltra, một chương trình ghi c
 Nếu bạn có dữ liệu trong Roam, thật dễ dàng xuất và xử lý dữ liệu đó trong Obsidian.
 
 > 1. Chọn "Export all" trong menu:
-> ![[Pasted image.png]]
+> ![[zh/附件/Pasted image.png]]
 
 > 2. Nhấn vào nút "Export all" màu xanh lam:
-> ![[Pasted image 1.png]]
+> ![[zh/附件/Pasted image 1.png]]
 
 > 3. Giải nén "Roam-Export-xxxxxxxxxxxxx.zip" vào một thư mục.
 

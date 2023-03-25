@@ -22,10 +22,10 @@ Sebagai catatan pula, pembuat dari nvUltra, program mencatatan berbasis markdown
 Jika Anda memiliki data di Roam, ia mudah untuk diekspor dan bermain dengannya dalam Obsidian.
 
 > 1. Pilih "Export all" pada menu:
-> ![[Pasted image.png]]
+> ![[zh/附件/Pasted image.png]]
 
 > 2. Klik tombol biru "Export all":
-> ![[Pasted image 1.png]]
+> ![[zh/附件/Pasted image 1.png]]
 
 > 3. Ekstrak "Roam-Export-xxxxxxxxxxxxx.zip" menjadi folder.
 

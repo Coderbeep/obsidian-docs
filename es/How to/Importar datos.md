@@ -23,10 +23,10 @@ También es de destacar que los creadores de nvUltra, otro programa de toma de n
 Si tiene datos en Roam, es fácil exportarlos y jugar con ellos en Obsidian.
 
 > 1. Elija "Exportar todo" en el menú:
-> ![[Pasted image.png]]
+> ![[zh/附件/Pasted image.png]]
 
 > 2. Haga clic en el botón azul "Exportar todo":
-> ![[Pasted image 1.png]]
+> ![[zh/附件/Pasted image 1.png]]
 
 > 3. Descomprima el "Roam-Export-xxxxxxxxxxxxx.zip" en una carpeta.
 

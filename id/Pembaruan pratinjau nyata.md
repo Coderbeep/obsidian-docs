@@ -4,11 +4,11 @@ Pratinjau Nyata merupakan mode pengubah baru yang memungkinkan Anda meninjau cat
 
 Berikut merupakan tampilan pengalaman pengubah yang Anda gunakan:
 
-![[Source view.png]]
+![[id/Lampiran/Source view.png]]
 
 Dan berikut catatan yang sama menggunakan Pratinjau Nyata:
 
-![[Live Preview.gif]]
+![[id/Lampiran/Live preview.gif]]
 
 Pratinjau Nyata memberikan Anda sebuah pengalaman peningkatan pengubahan yang memungkinkan Anda melihat bagaimana tampilan catatan Markdown Anda, tanpa berpindah antara tampilan Ubah dan Pratinjau.
 
@@ -39,7 +39,7 @@ Pratinjau Nyata dan Mode sumber merupakan dua cara untuk mengubah catatan Markdo
 
 Jika Anda ingin mengetahui bagaimana perubahan terminologi dengan fitur baru, berikut ini merupakan bagan yang berguna dari [[Kredit#^a4b3a2|Argentum]]:
 
-![[Editor update chart.png]]
+![[id/Lampiran/Editor update chart.png]]
 
 ## Tunggu, Saya belum siap untuk beralih!
 

@@ -4,7 +4,7 @@ aliases:
   - Advanced topics/YAML front matter
 ---
 
-While most of the text in a note is meant to be read by a human, _metadata_ is text that's meant to be easily readable by a program, for example a [[Community plugins|community plugin]] or Obsidian itself.
+While most of the text in a note is meant to be read by a human, _metadata_ is text that's meant to be easily readable by a program, for example a [[en/Extending Obsidian/Community plugins|community plugin]] or Obsidian itself.
 
 You can add metadata to your notes by adding a block on the first line of your note. The block must start and end with three hyphens (`---`).
 
@@ -22,7 +22,7 @@ Today I learned about front matter.
 ```
 
 > [!tip]
-> By default, metadata is only visible in the [[Editing and previewing Markdown#Editor views|editing view]].
+> By default, metadata is only visible in the [[en/Editing and formatting/Editing and previewing Markdown#Editor views|editing view]].
 >
 > To display metadata in reading view:
 >
@@ -75,9 +75,9 @@ Obsidian comes with of a set of predefined keys:
 
 | Key | Description |
 |-|-|
-| `tag` | See [[Editing and formatting/Tags\|Tags]]. |
+| `tag` | See [[en/Editing and formatting/Tags\|Tags]]. |
 | `tags` | Alias for `tag`. |
-| `alias` | See [[Aliases]]. |
+| `alias` | See [[en/Linking notes and files/Aliases]]. |
 | `aliases` | Alias for `alias`. |
-| `publish` | Used by [[Introduction to Obsidian Publish\|Obsidian Publish]] to [[Publish and unpublish notes#Automatically select notes to publish\|automatically select notes to publish]]. |
-| `cssclass` | Allows you to style individual notes using [[CSS snippets]]. |
+| `publish` | Used by [[en/Obsidian Publish/Introduction to Obsidian Publish\|Obsidian Publish]] to [[en/Obsidian Publish/Publish and unpublish notes#Automatically select notes to publish\|automatically select notes to publish]]. |
+| `cssclass` | Allows you to style individual notes using [[en/Extending Obsidian/CSS snippets]]. |

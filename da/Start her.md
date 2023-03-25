@@ -1,6 +1,6 @@
 Hej! Jeg er en note i din boks.
 
-På den samme tid, så er jeg bare en markdown fil, der ligger på din harddisk. Det hele er i ren tekst, så du behøver ikke bekymre dig om at miste mig, hvis [[Obsidian]] skulle forsvinde en dag.
+På den samme tid, så er jeg bare en markdown fil, der ligger på din harddisk. Det hele er i ren tekst, så du behøver ikke bekymre dig om at miste mig, hvis [[da/Obsidian/Obsidian]] skulle forsvinde en dag.
 
 ## Kom hurtig i gang
 
@@ -15,7 +15,7 @@ Hvis du skal skynde dig, så er her nogle hurtige steder, du kan dykke ned i:
 - Sådan [[Arbejde med flere noter|åbner du flere noter ved siden af hinanden]]
 - Obsidian kan udvides med [[Kerne plugins|plug-ins]]. Flere er tilgængelige som standard, og kan aktiveres eller deaktiveres afhængig af dine behov.
 
-Hvis du vil have en mere udførlig introduktion, inklusiv en smule om vores filosofi, så læs her om [[Obsidian]].
+Hvis du vil have en mere udførlig introduktion, inklusiv en smule om vores filosofi, så læs her om [[da/Obsidian/Obsidian]].
 
 Og hvis du vil have en blid introduktion, eller bare vil i gang, men ikke ved hvordan, så begynd med den [[Grundlæggende notetagning|grundlæggende notetagning]].
 
@@ -32,7 +32,7 @@ Hvis du allerede har en samling noter i markdown format, så kan du bruge dem ti
 
 Hvis du har noter fra Roam Research, Notion, eller andre systemer, så kan du [[Importer data|se her, hvordan du importerer dem]].
 
-Hvis du gerne vil vide mere om Obsidian, kan du [[Obsidian|læse vores historie]].
+Hvis du gerne vil vide mere om Obsidian, kan du [[da/Obsidian/Obsidian|læse vores historie]].
 
 Du kan forresten redigere i denne hjælpedokumentation, men det bliver overskrevet, næste gang du går ind i hjælpen. Så skriv ikke noget her, som du vil gemme.
 

@@ -16,4 +16,4 @@ Bạn cũng có thể liên kết đến các tiêu đề cụ thể trong file.
 - Để theo liên kết trong bảng panel mới từ Preview, hãy nhấp vào liên kết trong khi nhấn `Ctrl/Cmd`''
 - Để theo một liên kết trong ngăn Editor, hãy nhấp vào liên kết trong khi nhấn `Ctrl/Cmd`.
 - Để theo liên kết trong bảng điều khiển mới từ Editor, hãy nhấp vào liên kết trong khi nhấn `Ctrl/Cmd-Shift`''
-- Để xem bản xem trước của nội dung được liên kết mà không cần rời khỏi ghi chú hiện tại, hãy bật plugin [[page preview]] và một cửa sổ sẽ được hiển thị.
+- Để xem bản xem trước của nội dung được liên kết mà không cần rời khỏi ghi chú hiện tại, hãy bật plugin [[vi/Plugin/Page preview]] và một cửa sổ sẽ được hiển thị.

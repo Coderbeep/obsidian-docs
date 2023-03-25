@@ -11,7 +11,7 @@ Use aliases for things like acronyms, nicknames, or to refer to a note in a diff
 
 ## Add an alias to a note
 
-To add an alias for a note, add an `alias`, or `aliases`, property in the note [[Metadata|front matter]]:
+To add an alias for a note, add an `alias`, or `aliases`, property in the note [[en/Editing and formatting/Metadata|front matter]]:
 
 ```md
 ---
@@ -48,7 +48,7 @@ aliases:
 
 To link to a note using an alias:
 
-1. Start typing the alias in an [[Internal links|internal link]]. Any alias shows up in the list of suggestions, with a curved arrow icon next to it.
+1. Start typing the alias in an [[en/Linking notes and files/Internal links|internal link]]. Any alias shows up in the list of suggestions, with a curved arrow icon next to it.
 2. Press `Enter` to select the alias.
 
 Obsidian creates the link with the alias as its custom display text, for example `[[Artificial Intelligence|AI]]`.
@@ -58,8 +58,8 @@ Obsidian creates the link with the alias as its custom display text, for example
 
 ## Find unlinked mentions for an alias
 
-By using [[Backlinks]], you can find unlinked mentions of aliases.
+By using [[vi/Plugin/Backlinks]], you can find unlinked mentions of aliases.
 
 For example, after setting "AI" as an alias for "Artificial intelligence", you can see mentions of "AI" in other notes.
 
-If you link an unlinked mention to an alias, Obsidian turns the mention into an [[Internal links|internal link]] with the alias as its display text.
+If you link an unlinked mention to an alias, Obsidian turns the mention into an [[en/Linking notes and files/Internal links|internal link]] with the alias as its display text.

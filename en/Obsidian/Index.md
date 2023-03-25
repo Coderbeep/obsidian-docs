@@ -19,7 +19,7 @@ This help site is also available in other languages:
 
 ## Credits
 
-[[Credits|Our credits page]] lists all the amazing people who made Obsidian possible.
+[[en/Obsidian/Credits|Our credits page]] lists all the amazing people who made Obsidian possible.
 
 To read more about the makers, see the [about page](https://obsidian.md/about) on our official website.
 
@@ -27,23 +27,23 @@ To read more about the makers, see the [about page](https://obsidian.md/about) o
 
 ### About the app
 
-- See [[Obsidian|our philosophy for the app]].
+- See [[en/Obsidian/Obsidian|our philosophy for the app]].
 
 ### Getting started
 
-- Looking for some functionality? Try the  [[command palette]], which contains all available actions you need to work with Obsidian. Just press `Ctrl/Cmd-P` and start typing.
-- Learn our flavor of Markdown with [[Format your notes|how to format your notes]].
-- Check out some tips on [[Create notes|creating new notes]].
-- Check out some tips on [[Internal links|creating internal links]].
-- Learn how to [[Embedding files|embed other notes or attachments]].
+- Looking for some functionality? Try the  [[vi/Plugin/Command palette]], which contains all available actions you need to work with Obsidian. Just press `Ctrl/Cmd-P` and start typing.
+- Learn our flavor of Markdown with [[en/How to/Format your notes|how to format your notes]].
+- Check out some tips on [[en/How to/Create notes|creating new notes]].
+- Check out some tips on [[en/Linking notes and files/Internal links|creating internal links]].
+- Learn how to [[en/Linking notes and files/Embedding files|embed other notes or attachments]].
 
 ### Official plugins
 
-![[Core plugins#Current list of official plugins]]
+![[en/Plugins/Core plugins#Current list of official plugins]]
 
 ### Advanced guides
 
-- [[Working with multiple notes]]
+- [[en/How to/Working with multiple notes]]
 - [[Pane layout]]
-- [[Working with multiple vaults]]
-- [[Using Obsidian URI]]
+- [[en/How to/Working with multiple vaults]]
+- [[en/Advanced topics/Using Obsidian URI]]

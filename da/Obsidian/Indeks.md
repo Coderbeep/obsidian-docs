@@ -27,7 +27,7 @@ For at læse mere om udviklerne, se [about](https://obsidian.md/about) siden vor
 
 ### Om applikationen
 
-- Læs [[Obsidian|vores filosofi omkring applikationen]].
+- Læs [[da/Obsidian/Obsidian|vores filosofi omkring applikationen]].
 
 ### Kom godt i gang
 

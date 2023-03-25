@@ -9,7 +9,7 @@ Tags are keywords or topics that help you quickly find the notes you want.
 
 To create a tag, enter a hashtag symbol (#) in the editor, followed by a keyword. For example, `#meeting`.
 
-You can also add the tag to the [[metadata]]:
+You can also add the tag to the [[en/Editing and formatting/Metadata]]:
 
 ```yaml
 ---
@@ -37,11 +37,11 @@ tags: recipe, cooking
 
 ## Find notes using tags
 
-To find notes using the [[Search]] plugin, use the `tag` [[Search#Search operators|search operator]] in your search term, for example `tag:#meeting`.
+To find notes using the [[vi/Plugin/Search]] plugin, use the `tag` [[vi/Plugin/Search#Search operators|search operator]] in your search term, for example `tag:#meeting`.
 
 You can also search for tags by clicking on them in your notes.
 
-To find notes using the [[Plugins/Tags|Tags]] plugin, select **Tags: Show tags** in the [[Command palette]], and then select the tag you want to search for.
+To find notes using the [[da/Plugins/Tags|Tags]] plugin, select **Tags: Show tags** in the [[vi/Plugin/Command palette]], and then select the tag you want to search for.
 
 ## Nested tags
 
@@ -49,7 +49,7 @@ Nested tags define tag hierarchies that make it easier to find and filter relate
 
 Create nested tags by using forward slashes (`/`) in the tag name, for example  `#inbox/to-read` and `#inbox/processing`.
 
-Both the [[Search]] and [[Plugins/Tags|Tags]] plugins support nested tags.
+Both the [[vi/Plugin/Search]] and [[da/Plugins/Tags|Tags]] plugins support nested tags.
 
 ## Tag format
 

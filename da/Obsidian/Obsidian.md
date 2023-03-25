@@ -37,14 +37,14 @@ Hierarki give os nr. 1 og linking giver os nr. 2. Vi er ikke sikre på hvad nr. 
 
 At tage noter er en meget personlig aktivitet. Naturligvis er der ingen enkelt altomfattende løsning for alle.
 
-I stedet for at stille dig et samlet produkt med en bestemt opfattelse af notetagning til rådighed, giver [[Obsidian]] dig et fundament og talrige funktionelle byggeklodser til rådighed, som du kan udforske og derved bygge din egen løsning.
+I stedet for at stille dig et samlet produkt med en bestemt opfattelse af notetagning til rådighed, giver [[da/Obsidian/Obsidian]] dig et fundament og talrige funktionelle byggeklodser til rådighed, som du kan udforske og derved bygge din egen løsning.
 
 Fundamentet er at have mulighed for at vise filer, redigere dem og søge i dem. For den minimalistiske person er det nok.
 
 Udover det kan du tilføje isolerede uafhængige bygeklodser som tilføjer funktioner til din notetagning:
 
 - Hvis du tager noter i klassen kan [[Lyd optager|lydoptagelser]] og LaTeX math måske være brugbart;
-- Hvis du tager noter på arbejde kan [[Slides]] og [[Tilbagelinks]] måske være praktiske;
+- Hvis du tager noter på arbejde kan [[vi/Plugin/Slides]] og [[Tilbagelinks]] måske være praktiske;
 - Hvis du er forsker kan [[Grafvisning]] og [[Ordtæller]] måske være en nødvendighed i din værktøjskasse.
 
 Vi forventer ikke at plug-ins er løsningen til at løse alle problemer, men det får os tættere på, end en monolitisk løsning med en masse funktioner, som du ikke behøver og som gør det uoverskueligt i brug.

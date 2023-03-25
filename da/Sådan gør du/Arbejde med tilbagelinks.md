@@ -2,7 +2,7 @@ Tilbagelinks er en af de mest kraftfulde funktioner i Obsidian. Det resulterer i
 
 Tilbagelinks panelet har to sektioner, Linkede omtaler og Ikke-linkede omtaler.
 
-![[Backlinks.png]]
+![[ja/アタッチメント/Backlinks.png]]
 
 Som du kan se i ovenstående dokument, så er der på nuværende tidspunkt en indgang i hver sektion.
 Under Linkede bemærkninger kan du se, at jeg har lavet et link til dette dokument i [[Sammenkædede paneler]] noten. Men du kan også se under Ikke-linkede omtaler, at jeg også skrev navnet på denne note, men ikke gjorde de ttil et link.

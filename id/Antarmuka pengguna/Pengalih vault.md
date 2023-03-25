@@ -2,7 +2,7 @@ Pengalih vault memungkinkan anda beralih antar vault yang tersedia dan membuat v
 
 ## Buka pengalih vault
 
-Untuk membuka pengalih vault, klik pada ikon vault pada kelompok bagian bawah dari aksi [[Ribbon]]. Teks bantuan akan mengatakan "Buka vault lain".
+Untuk membuka pengalih vault, klik pada ikon vault pada kelompok bagian bawah dari aksi [[id/Antarmuka pengguna/Ruang kerja/Ribbon]]. Teks bantuan akan mengatakan "Buka vault lain".
 
 Anda dapat melihat [[#daftar vault terkini]] dan [[#membuat vault baru]] di sini. Karena ini merupakan tampilan layar yang akan pertama kali pengguna baru lihat, itu juga akan menampilkan nama program dan versi terkini, disertai dengan dropdown untuk beralih [[Bahasa antarmuka]].
 

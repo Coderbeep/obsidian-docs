@@ -1,4 +1,4 @@
-Obsidian has two sidebars on both left and right. The left sidebar includes the [[Ribbon]].
+Obsidian has two sidebars on both left and right. The left sidebar includes the [[en/User interface/Workspace/Ribbon]].
 
 ## Open hidden sidebars
 

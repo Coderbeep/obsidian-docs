@@ -1,8 +1,8 @@
 Per incorporare nelle note file allegati, come immagini o audio, utilizzare la sintassi `![[Nomefile.png]]` in questo modo:
 
-![[Engelbart.jpg]]
+![[zh/附件/Engelbart.jpg]]
 
-![[Excerpt from Mother of All Demos (1968).ogg]]
+![[zh/附件/Excerpt from Mother of All Demos (1968).ogg]]
 
 Usando la stessa sintassi, è anche possibile incorporare le note:
 

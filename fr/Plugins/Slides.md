@@ -8,7 +8,7 @@ Slides vous permet de faire des présentations simples directement dans Obsidian
 
 2. Pour démarrer une présentation, cliquez sur ce bouton après avoir ouvert une note:
 
-![[Pasted image 14.png]]
+![[zh/附件/Pasted image 14.png]]
 
 ### Démonstration
 

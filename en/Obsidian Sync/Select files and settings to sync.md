@@ -1,9 +1,9 @@
-Any files or settings that have been synced to your [[Local and remote vaults|remote vault]] count towards your [[Limitations#How large can each remote vault be|storage space]]. By default, [[Introduction to Obsidian Sync|Obsidian Sync]] ignores larger files such as audio, video, and PDFs.
+Any files or settings that have been synced to your [[en/Obsidian Sync/Local and remote vaults|remote vault]] count towards your [[en/Obsidian Sync/Limitations#How large can each remote vault be|storage space]]. By default, [[en/Obsidian Sync/Introduction to Obsidian Sync|Obsidian Sync]] ignores larger files such as audio, video, and PDFs.
 
 **Notes:**
 
 - Synced files remain in your remote vault even if you exclude them later on. If possible, configure the files and settings you want to sync before you start syncing your vault.
-- Obsidian only applies vault settings during start-up. If you change a setting on one device, you need to restart Obsidian on your other devices for the new changes to take effect. For example, if you change the path of your daily notes in the [[Daily Notes]] plugin, you need to restart Obsidian on your other devices to use the new path.
+- Obsidian only applies vault settings during start-up. If you change a setting on one device, you need to restart Obsidian on your other devices for the new changes to take effect. For example, if you change the path of your daily notes in the [[vi/Plugin/Daily notes]] plugin, you need to restart Obsidian on your other devices to use the new path.
 - ==Sync doesn't sync Sync's settings.== This allows users to configure Sync differently on each device according to their needs. This means, however, that you must configure custom Sync settings on each device.
 
 ## Sync vault configuration

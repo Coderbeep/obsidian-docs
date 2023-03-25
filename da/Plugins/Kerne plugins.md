@@ -1,4 +1,4 @@
-En af de mest kraftfulde aspekter ved [[Obsidian]] er dens evne til at kunne tilføje ny funktionalitet ved hjælp af plugins. Obsidian kommer præinstalleret med mange, og mange flere er under udvikling.
+En af de mest kraftfulde aspekter ved [[fr/Obsidian]] er dens evne til at kunne tilføje ny funktionalitet ved hjælp af plugins. Obsidian kommer præinstalleret med mange, og mange flere er under udvikling.
 
 Du kan også udvikle dine egne Obsidian plugins. Se [[Fællesskabs plugins]].
 
@@ -7,7 +7,7 @@ Plugins kan håndteres via "Indstillinger" knappen nederst til venstre. Nogle af
 ### Liste over nuværende officielle plugins
 
 - [[Arbejdsområder]]
-- [[Canvas]]
+- [[da/Plugins/Canvas]]
 - [[Daglige noter]]
 - [[Disposition]]
 - [[Favoritter]]
@@ -24,10 +24,10 @@ Plugins kan håndteres via "Indstillinger" knappen nederst til venstre. Nogle af
 - [[Publish]]
 - [[Skabeloner]]
 - [[Slash kommandoer]]
-- [[Slides]]
+- [[da/Plugins/Slides]]
 - [[Stifinder]]
 - [[Søg]]
-- [[Tags]]
+- [[da/Plugins/Tags]]
 - [[Tilbagelinks]]
 - [[Tilfældig note]]
 - [[Udgående links]]

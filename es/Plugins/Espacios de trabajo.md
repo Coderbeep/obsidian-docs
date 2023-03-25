@@ -1,6 +1,6 @@
 El complemento Workspaces le permite guardar y cargar "espacios de trabajo". Cada espacio de trabajo incluye el diseño del panel, el estado de la barra lateral (expandido o contraído) y el estado de archivo abierto.
 
-![[Pasted image 19.png]]
+![[ja/アタッチメント/Pasted image 19.png]]
 
 ### Guardar un espacio de trabajo
 

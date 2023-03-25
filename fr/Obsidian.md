@@ -20,7 +20,7 @@ Quand le système de fichiers de votre ordinateur remplace le stockage en ligne,
 
 Les liens et les connexions sont cruciaux pour découvrir les relations entre ce que nous savons.
 
-Obsidian met les liens à l'honneur et simplifie leur gestion grâce aux [[Internal link|liens internes]] ainsi qu'à la [[Graph view|vue graphique]] entre autres choses.
+Obsidian met les liens à l'honneur et simplifie leur gestion grâce aux [[Internal link|liens internes]] ainsi qu'à la [[fr/Plugins/Graph view|vue graphique]] entre autres choses.
 
 Comme John Locke le dit...
 
@@ -37,17 +37,17 @@ La première composante est fournie par la hiérarchie tandis que la deuxième l
 
 La prise de note est vraiment une activité personnelle. Naturellement, il n'y a pas une solution globale unique pour tout le monde.
 
-Au lieu de vous fournir une application formatée et rigide, [[Obsidian]] vous donne une base solide et de nombreux outils fonctionnels pour découvrir et construire votre propre solution.
+Au lieu de vous fournir une application formatée et rigide, [[fr/Obsidian]] vous donne une base solide et de nombreux outils fonctionnels pour découvrir et construire votre propre solution.
 
 Le b-a-ba est de vous permettre de consulter vos fichiers, les éditer et de lancer des recherches. Pour une utilisation basique c'est suffisant.
 
 En plus de cela, vous pouvez ajouter des blocs de construction isolés et indépendants pour rajouter des fonctionnalités à votre prise de notes :
 
-- si vous prenez des notes en cours, l'[[Audio recorder|enregistreur]] et LaTeX pour les maths peuvent être utiles
+- si vous prenez des notes en cours, l'[[fr/Plugins/Audio recorder|enregistreur]] et LaTeX pour les maths peuvent être utiles
 
-- si vous prenez des notes au travail, [[Slides|le diaporama]] et [[Backlinks|les liens retours]] peuvent vous aider
+- si vous prenez des notes au travail, [[fr/Plugins/Slides|le diaporama]] et [[fr/Plugins/Backlinks|les liens retours]] peuvent vous aider
 
-- si vous faites de la recherche, [[Graph view]|la vue graphique] et [[Word count|le compteur de mots]] peuvent se révéler essentiels à votre trousse à outils.
+- si vous faites de la recherche, [[Graph view]|la vue graphique] et [[fr/Plugins/Word count|le compteur de mots]] peuvent se révéler essentiels à votre trousse à outils.
 
 Nous ne nous attendons pas à ce que les plugins soient la solution miracle pour résoudre tous les problèmes mais cela nous paraît plus pertinent qu'une approche monolithique, sans toutes les fonctionnalités dont vous n'avez pas besoin et qui risquent d'encombrer l'interface.
 

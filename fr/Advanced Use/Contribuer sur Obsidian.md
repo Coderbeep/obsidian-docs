@@ -6,7 +6,7 @@ Il y a trois principales manières de contribuer:
 
 #### Licence commerciale
 
-Si vous voulez utiliser Obsidian pour le travail, essayez à ce que votre entreprise puisse vous obtenir une [[Commercial license|license commerciale]].
+Si vous voulez utiliser Obsidian pour le travail, essayez à ce que votre entreprise puisse vous obtenir une [[en/Licenses and payment/Commercial license|license commerciale]].
 
 #### Add-on services
 
@@ -16,11 +16,11 @@ Si vous êtes intéréssé.e par le chiffrement de bout-en-bout, nous proposons 
 
 #### Catalyst
 
-Si vous n'avez besoin d'aucun de ces services, vous pouvez vous offrir  une [[Catalyst license|Licence Catalyst]] afin de supporter les développeurs, et qui vous donne accès aux [[Insider builds]].
+Si vous n'avez besoin d'aucun de ces services, vous pouvez vous offrir  une [[en/Licenses and payment/Catalyst license|Licence Catalyst]] afin de supporter les développeurs, et qui vous donne accès aux [[en/Advanced topics/Insider builds]].
 
 #### Obsidian Unlimited
 
-Pour ceux d'entre vous passionés d'Obsidian, il y a aussi l'option Obsidian Unlimited option, qui vous permet de contribuer du prix que vous souhaitez, et qui nous permet de rester indépendants. Nous recommandons cette option après avoir acheté l'option VIP de [[Catalyst license]] pour que vous puissiez apprécier des bénéfices apportés par cette option.
+Pour ceux d'entre vous passionés d'Obsidian, il y a aussi l'option Obsidian Unlimited option, qui vous permet de contribuer du prix que vous souhaitez, et qui nous permet de rester indépendants. Nous recommandons cette option après avoir acheté l'option VIP de [[en/Licenses and payment/Catalyst license]] pour que vous puissiez apprécier des bénéfices apportés par cette option.
 
 ### 2. Extending Obsidian
 

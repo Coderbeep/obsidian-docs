@@ -6,7 +6,7 @@ Tenga en cuenta que las compilaciones internas son menos estables que las versio
 
 Si eres un [[Licencia de Catalyst | Partidario de Catalyst]], tienes acceso a Compilaciones Internas antes que el público en general. Para acceder a ellas, vaya a Configuración => Cuenta e inicie sesión con la contraseña que utilizó en el sitio de Obsidian. Luego, vaya a Configuración => Acerca de y active Insider Builds allí.
 
-![[Insider.png]]
+![[ja/アタッチメント/Insider.png]]
 
 ### Informar problemas
 

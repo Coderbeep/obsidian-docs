@@ -4,7 +4,7 @@ Obsidian is both a Markdown editor and a knowledge base app.
 
 Used in the most basic way, you can edit and preview Markdown files. But its true power lies in managing a densely networked knowledge base.
 
-How do we start creating a network, you ask? Let's first start making some [[Internal links]]!
+How do we start creating a network, you ask? Let's first start making some [[en/Linking notes and files/Internal links]]!
 
 ## How we're different
 
@@ -20,7 +20,7 @@ When the file system replaces the cloud, you get flexible options to work with y
 
 Links and connections are crucial to discovering the relations between what we know.
 
-Obsidian greatly values this, and encourages it with [[Internal links]] and [[Graph view]], among other things.
+Obsidian greatly values this, and encourages it with [[en/Linking notes and files/Internal links]] and [[vi/Plugin/Graph view]], among other things.
 
 As John Locke puts it...
 
@@ -38,19 +38,19 @@ Hierarchy gives us No. 1, and linking gives us No. 2. We're still unsure what No
 
 Note-taking is a highly personal activity. Naturally there is no single all-encompassing solution for everyone.
 
-Instead of providing you with an opinionated and assembled product, [[Obsidian]] gives you a foundation and numerous functional building blocks  to discover and build your own solution.
+Instead of providing you with an opinionated and assembled product, [[en/Obsidian/Obsidian]] gives you a foundation and numerous functional building blocks  to discover and build your own solution.
 
 The foundation is to be able to view files, edit them, and search them. For the minimalist, that's enough.
 
 On top of that, you can add isolated, independent building blocks to add features to your note-taking:
 
-- If you're taking class notes, [[Audio recorder]] and LaTeX math might be useful;
-- If you're taking work notes, [[Slides]] and [[Backlinks]] may come in handy;
-- If you're a researcher, [[Graph view]] and [[Word count]] might be essential to your toolkit.
+- If you're taking class notes, [[vi/Plugin/Audio recorder]] and LaTeX math might be useful;
+- If you're taking work notes, [[vi/Plugin/Slides]] and [[vi/Plugin/Backlinks]] may come in handy;
+- If you're a researcher, [[vi/Plugin/Graph view]] and [[vi/Plugin/Word count]] might be essential to your toolkit.
 
 We don't expect plugins to be the silver bullet to solve all the problems, but it does get us closer than a monolith solution, without all the features that you don't need cluttering the interface.
 
-We support [[CSS snippets]], [[Themes]], and [[Community plugins]], which enable even more interface customization and support less common use cases.
+We support [[en/Extending Obsidian/CSS snippets]], [[en/Extending Obsidian/Themes]], and [[en/Extending Obsidian/Community plugins]], which enable even more interface customization and support less common use cases.
 
 ## Follow our development
 

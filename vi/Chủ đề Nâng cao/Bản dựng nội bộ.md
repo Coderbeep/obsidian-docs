@@ -6,7 +6,7 @@ Xin lưu ý rằng các bản dựng nội bộ kém ổn định hơn các phi�
 
 Nếu bạn là [[Giấy phép Catalyst|Người hỗ trợ Catalyst]], bạn có quyền truy cập vào Bản dựng nội bộ trước khi nó phát hành. Để truy cập các phiên bản này, hãy đi tới Settings => Account và đăng nhập bằng mật khẩu bạn đã sử dụng trên trang web chính thức của Obsidian. Sau đó đi tới Settings => About và bật Bản dựng nội bộ.
 
-![[Insider.png]]
+![[ja/アタッチメント/Insider.png]]
 
 ### Báo cáo sự cố
 

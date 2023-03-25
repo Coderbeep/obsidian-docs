@@ -2,7 +2,7 @@ Nó cho phép bạn chuyển đổi từ các biến thể khác của định d
 
 Ngay bây giờ bạn có thể chuyển đổi:
 
-- Roam #tags thành [[tags]]
+- Roam #tags thành [[da/Plugins/Tags]]
 - Roam `^^highlight^^` thành `==highlight==`
 - Bear `::highlight::` thành `==highlight==`.
 - Zettelkasten `[[UID]]` liên kết đến liên kết đầy đủ `[[UID File Name]]`

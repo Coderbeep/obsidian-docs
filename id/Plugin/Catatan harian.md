@@ -2,7 +2,7 @@ Catatan harian membuka catatan berdasasrkan tanggal hari ini, atau membuatnya ji
 
 Untuk membuka catatan harian hari ini, antara:
 
-- Mengklik **Buka catatan hari ini** (ikon kalender dengan tanda centang) pada [[ribbon]].
+- Mengklik **Buka catatan hari ini** (ikon kalender dengan tanda centang) pada [[en/User interface/Workspace/Ribbon]].
 - Jalankan **Buka catatan hari ini** melalui [[Palet Perintah]].
 - [[Pintasan kustom#Mengatur pintasan|Gunakan pintasan]] untuk perintah **Buka catatan hari ini**.
 

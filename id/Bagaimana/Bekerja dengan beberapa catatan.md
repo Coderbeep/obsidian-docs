@@ -14,7 +14,7 @@ Untuk membuka berkas di panel baru, tekan `Ctrl/Cmd` ketika Anda klik di mode Pr
 
 Untuk membuat tata letak lain, Anda dapat membagi panel aktif menjadi dua secara horizontal atau vertikal. Lakukan ini melalui menu di bagian atas kanan panel, atau menggunakan palet perintah, atau dengan [[Menggunakan pintasan]].
 
-![[Pasted image 16.png]]
+![[zh/附件/Pasted image 16.png]]
 
 ---
 
@@ -22,7 +22,7 @@ Untuk membuat tata letak lain, Anda dapat membagi panel aktif menjadi dua secara
 
 Ini akan luar biasa jika Anda bekerja dengan sesuatu dan ingin menggunakan panel lain sebagai panel referensi. Sematkan panel kerja Anda untuk memastikannya tidak terganti.
 
-![[Pasted image 17.png]]
+![[zh/附件/Pasted image 17.png]]
 
 Panel yang tersemat akan memiliki ikon sematan yang tersorot alih-alih berwarna abu-abu.
 
@@ -38,7 +38,7 @@ Saat menautkan ke panel lain, posisi gulir panel akan tersinkronisasi, dan jika 
 
 Untuk informasi lebih lanjut lihat [[Panel tertaut]].
 
-![[Pasted image 18.png]]
+![[zh/附件/Pasted image 18.png]]
 
 ##### 5. Panel dapat ==ditata dengan cara diseret==.
 

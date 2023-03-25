@@ -1,4 +1,4 @@
-Nosotros creemos [[Obsidian#En qué somos diferentes|que sus datos son siempre suyos para poseer y controlar]]. Sus notas se almacenan en markdown, que es un formato abierto basado en archivos de texto sin formato, por lo que deberían ser legibles en el futuro por cualquier computadora que pueda manejar archivos de texto. Puede editar notas libremente en otro software, incluso mientras las tiene abiertas en Obsidian.
+Nosotros creemos [[fr/Obsidian#En qué somos diferentes|que sus datos son siempre suyos para poseer y controlar]]. Sus notas se almacenan en markdown, que es un formato abierto basado en archivos de texto sin formato, por lo que deberían ser legibles en el futuro por cualquier computadora que pueda manejar archivos de texto. Puede editar notas libremente en otro software, incluso mientras las tiene abiertas en Obsidian.
 
 ### Datos por bóveda
 

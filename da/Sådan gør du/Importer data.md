@@ -22,10 +22,10 @@ Det skal også bemærkes, at udviklerne af nvUltra, en anden markdown baseret no
 Hvis du har data i Roam, er det nemt at eksportere det og flytte det rundt i Obsidian.
 
 > 1. Vælg "Export all" i menuen i Roam:
-> ![[Pasted image.png]]
+> ![[zh/附件/Pasted image.png]]
 
 > 2. Klik på den blå "Export all" knap:
-> ![[Pasted image 1.png]]
+> ![[zh/附件/Pasted image 1.png]]
 
 > 3. Udpak "Roam-Export-xxxxxxxxxxxxx.zip" arkivet i en mappe på din computer.
 

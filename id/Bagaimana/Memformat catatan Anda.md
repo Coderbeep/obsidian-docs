@@ -22,7 +22,7 @@ Sematkan berkas lain (baca lebih lanjut tentang [[Menyematkan berkas]]). berikut
 ![[Obsidian#Apa itu Obsidian]]
 ```
 
-![[Obsidian#Apa itu Obsidian]]
+![[fr/Obsidian#Apa itu Obsidian]]
 
 ---
 

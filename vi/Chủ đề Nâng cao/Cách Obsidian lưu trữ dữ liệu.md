@@ -1,4 +1,4 @@
-Chúng tôi tin rằng [[Obsidian#Chúng tôi khác biệt như thế nào|dữ liệu của bạn luôn thuộc quyền sở hữu và kiểm soát của bạn]]. Ghi chú của bạn được lưu trữ trong markdown, đây là một định dạng mở dựa trên các file văn bản thuần túy và do đó, bất kỳ máy tính nào có thể xử lý file văn bản đều có thể đọc được các ghi chú trong tương lai. Bạn có thể tự do chỉnh sửa ghi chú trong phần mềm khác, ngay cả khi mở chúng trong Obsidian.
+Chúng tôi tin rằng [[fr/Obsidian#Chúng tôi khác biệt như thế nào|dữ liệu của bạn luôn thuộc quyền sở hữu và kiểm soát của bạn]]. Ghi chú của bạn được lưu trữ trong markdown, đây là một định dạng mở dựa trên các file văn bản thuần túy và do đó, bất kỳ máy tính nào có thể xử lý file văn bản đều có thể đọc được các ghi chú trong tương lai. Bạn có thể tự do chỉnh sửa ghi chú trong phần mềm khác, ngay cả khi mở chúng trong Obsidian.
 
 ### Mỗi dữ liệu vault
 

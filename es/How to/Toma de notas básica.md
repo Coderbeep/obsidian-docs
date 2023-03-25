@@ -1,6 +1,6 @@
 Si acaba de abrir Obsidian, verá dos documentos aquí. El del panel izquierdo es un archivo de texto, que puede editar usando la sintaxis de Markdown. El del panel derecho es una vista previa del mismo archivo de texto si lo exportara como HTML o como un documento PDF. Tenga en cuenta que algunas cosas se ven diferentes en la _Vista previa_ y, lo más obvio, los enlaces no están entre paréntesis. Para seguir un enlace, haga clic en él en el panel Vista previa. También puede seguir los enlaces en el panel Editor, manteniendo presionada la tecla `Ctrl / Cmd` y haciendo clic en el enlace. Si desea volver a la página en la que estaba antes, use el atajo `Ctrl / Cmd + Alt + Left-Arrow`
 
-Alternativamente, las notas que enlazan con la que está actualmente se mostrarán en el **Backlinks Panel** a la derecha (más información sobre backlinks [[Backlinks|aquí.]])
+Alternativamente, las notas que enlazan con la que está actualmente se mostrarán en el **Backlinks Panel** a la derecha (más información sobre backlinks [[vi/Plugin/Backlinks|aquí.]])
 
 Si te pierdes en cualquier momento o simplemente quieres explorar qué más puede hacer Obsidian, `Ctrl / Cmd + P` abre la paleta de comandos. Puede escribir comandos allí, como "Navegar hacia atrás", y verá que las opciones se filtran a una lista corta, junto con atajos de teclas de acceso rápido, si los tienen.
 

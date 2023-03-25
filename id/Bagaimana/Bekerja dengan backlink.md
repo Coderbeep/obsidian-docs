@@ -2,7 +2,7 @@ Backlink merupakan salah satu fitur terkuat dari Obsidian. Yang hasilnya, terkad
 
 Panel backlink terbagi atas dua bagian, Sebutan yang tertaut dan Sebutan yang belum tertaut.
 
-![[Backlinks.png]]
+![[ja/アタッチメント/Backlinks.png]]
 
 Seperti yang Anda lihat, dari dokumen ini, saat ini terdapat satu masukan di setiap bagiannya. Di sebutan yang tertaut Anda dapat melihat tautan yang dibuat menuju dokumen ini pada catatan [[Panel tertaut]]. Tetapi, Anda juga dapat melihat di Sebutan yang belum tertaut terdapat nama dari catatan ini tetapi tidak membuatnya sebagai tautan.
 

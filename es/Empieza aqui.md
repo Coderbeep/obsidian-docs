@@ -1,6 +1,6 @@
 ¡Hola! Soy una nota en tu bóveda.
 
-Al mismo tiempo, también soy solo un archivo de Markdown que se encuentra en su disco duro. Todo está en texto plano, así que no tienes que preocuparte por perderme en caso de que [[Obsidian]] desaparezca algún día.
+Al mismo tiempo, también soy solo un archivo de Markdown que se encuentra en su disco duro. Todo está en texto plano, así que no tienes que preocuparte por perderme en caso de que [[es/Obsidian/Obsidian]] desaparezca algún día.
 
 ## Inicio rápido
 
@@ -16,7 +16,7 @@ Si tiene prisa, aquí hay algunos lugares rápidos para sumergirse:
 - Obsidian se puede ampliar con [[Lista de complementos | complementos]]. Varios están disponibles de forma predeterminada y se pueden habilitar o deshabilitar según sus necesidades.
 
 
-Si desea una introducción más completa, que incluya un poco sobre nuestra filosofía, consulte [[Obsidian]].
+Si desea una introducción más completa, que incluya un poco sobre nuestra filosofía, consulte [[es/Obsidian/Obsidian]].
 
 Y si desea una presentación suave, o simplemente desea comenzar pero no sabe cómo, diríjase a [[Toma de notas básica]].
 
@@ -34,7 +34,7 @@ Si ya tiene una colección de notas en formato de markdown, simplemente selecci�
 
 Si tiene notas de Roam Research, Notion u otros sistemas, [[Importar datos | aquí se explica cómo importarlos]].
 
-Si desea saber más sobre Obsidian, puede [[Obsidian | leer sobre nuestra historia]].
+Si desea saber más sobre Obsidian, puede [[es/Obsidian/Obsidian | leer sobre nuestra historia]].
 
 Por cierto, puede editar estos documentos de ayuda con total libertad, pero cuando haga clic en Configuración => Ayuda => Leer ayuda nuevamente, se sobrescribirán. Por lo tanto, no pongas nada que quieras conservar.
 

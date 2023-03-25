@@ -2,7 +2,7 @@
 
 Bạn có thể nhúng các file attachment như hình ảnh hoặc âm thanh vào ghi chú của mình. Sử dụng cú pháp `![[filename.png]]` như sau:
 
-![[Engelbart.jpg]]
+![[zh/附件/Engelbart.jpg]]
 
 ![[Trích từ Mother of All Demos (1968).ogg]]
 
@@ -12,7 +12,7 @@ Bạn có thể nhúng file PDF vào ghi chú của mình với cùng một cú 
 
 Bạn cũng có thể nhúng ghi chú, với cùng một cú pháp:
 
-![[Accepted file formats]]
+![[en/Advanced topics/Accepted file formats]]
 
 ### iframe
 

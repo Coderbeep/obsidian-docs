@@ -24,7 +24,7 @@ Di masa yang akan datang, kami mempertimbangkan cara yang yang lebih ramah pengg
 
 Ketika Anda mengatur alias pada berkas, Anda dapat menuliskan `[[alias]]` untuk menautkan ke laman aslinya. Ikon beralih akan muncul pada daftar penyelesai otomatis seperti ini:
 
-![[Insert alises.png]]
+![[ja/アタッチメント/Insert alises.png]]
 
 Tautan internal dengan tampilan teks akan mendapatkan masukan seperti ini: `[[Menambah alias ke catatan|alias]]`.
 

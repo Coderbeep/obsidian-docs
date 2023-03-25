@@ -1,6 +1,6 @@
 Tampilan grafik memberikan kepada Anda visualisasi hubungan antara catatan pada vault Anda.
 
-Untuk membuka Tampilan Grafik, klik **Buka tampilan grafik** di [[ribbon]].
+Untuk membuka Tampilan Grafik, klik **Buka tampilan grafik** di [[en/User interface/Workspace/Ribbon]].
 
 - Lingkaran merepresentasikan catatan, atau _titik_.
 - Garis merepresentasikan [[tautan internal]] antara dua titik.
@@ -71,4 +71,4 @@ Bagian ini mengendalikan gaya yang bekerja pada setiap titik di grafik.
 
 Catatan dan lampiran tampil secara berurutan berdasarkan waktu mereka dibuat.
 
-![[Pasted image 10.png]]
+![[zh/附件/Pasted image 10.png]]

@@ -24,7 +24,7 @@ Trong tương lai, chúng tôi sẽ xem xét các cách quản lý aliases thân
 
 Khi bạn đã đặt aliases cho file, bạn có thể viết `[[alias]]` để liên kết đến trang gốc. Biểu tượng chuyển hướng sẽ hiển thị trong danh sách tự động hoàn thành như sau:
 
-![[Insert alises.png]]
+![[ja/アタッチメント/Insert alises.png]]
 
 Một liên kết nội bộ với văn bản hiển thị sẽ được chèn như sau: `[[Thêm aliases vào ghi chú|alias]]`.
 

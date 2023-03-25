@@ -11,19 +11,19 @@ We currently support the formats below:
 Link to a page: [[Internal links]].
 ```
 
-Link to a page: [[Internal links]].
+Link to a page: [[en/Linking notes and files/Internal links]].
 
 ---
 
 ### Embeds
 
-Embed another file (read more about [[Embedding files]]):
+Embed another file (read more about [[en/Linking notes and files/Embedding files]]):
 
 ```md
 ![[Obsidian#What is Obsidian]]
 ```
 
-![[Obsidian#What is Obsidian]]
+![[fr/Obsidian#What is Obsidian]]
 
 ---
 
@@ -158,7 +158,7 @@ Will look like this:
 ![[og-image.png]]
 ```
 
-![[og-image.png]]
+![[en/og-image.png]]
 
 #### Resizing images
 
@@ -176,7 +176,7 @@ or for local images
 ![[og-image.png|200]]
 ```
 
-![[og-image.png|200]]
+![[en/og-image.png|200]]
 
 ---
 
@@ -193,9 +193,9 @@ http://obsidian.md - automatic!
 
 #### Obsidian URI links
 
-[[Using Obsidian URI|Obsidian URI]] links can be used to open notes in Obsidian either from another Obsidian vault or another program.
+[[en/Advanced topics/Using Obsidian URI|Obsidian URI]] links can be used to open notes in Obsidian either from another Obsidian vault or another program.
 
-For example, you can link to a file in a vault like so (please note the [[Using Obsidian URI#Encoding|required encoding]]):
+For example, you can link to a file in a vault like so (please note the [[en/Advanced topics/Using Obsidian URI#Encoding|required encoding]]):
 
 ```md
 [Link to note](obsidian://open?path=D:%2Fpath%2Fto%2Ffile.md)
@@ -262,7 +262,7 @@ You can add syntax highlighting to a code block by adding a language code after 
 Obsidian uses Prism for syntax highlighting. For more information, refer to [Supported languages](https://prismjs.com/#supported-languages).
 
 > [!note]
-> [[Live preview update|Live Preview mode]] doesn't support PrismJS and may render syntax highlighting differently.
+> [[en/Live preview update|Live Preview mode]] doesn't support PrismJS and may render syntax highlighting differently.
 
 ~~~md
 ```js
@@ -352,7 +352,7 @@ Tables can be justified with a colon | Another example with a long title | And a
 :----------------|-------------:|:-------------:
 because of the `:` | these will be justified |this is centered
 
-If you put links in tables, they will work, but if you use [[Aliases|aliases]], the pipe must be escaped with a `\` to prevent it being read as a table element.
+If you put links in tables, they will work, but if you use [[en/Linking notes and files/Aliases|aliases]], the pipe must be escaped with a `\` to prevent it being read as a table element.
 
 ```md
 First Header | Second Header
@@ -362,7 +362,7 @@ First Header | Second Header
 
 First Header | Second Header
 ------------ | ------------
-[[Format your notes\|Formatting]]	|  [[Custom hotkeys\|hotkeys]]
+[[en/How to/Format your notes\|Formatting]]	|  [[en/Customization/Custom hotkeys\|hotkeys]]
 
 If you want to resize images in tables, you need to escape the pipe with a `\`:
 
@@ -374,7 +374,7 @@ Image | Description
 
 Image | Description
 ----- | -----------
-![[og-image.png\|200]] | Obsidian
+![[en/og-image.png\|200]] | Obsidian
 
 ---
 
@@ -499,7 +499,7 @@ multiple lines
 
 Use the following syntax to denote a callout block: `> [!info]`.
 
-For more information, refer to [[Callouts]].
+For more information, refer to [[en/Editing and formatting/Callouts]].
 
 ```markdown
 > [!info]
@@ -509,7 +509,7 @@ For more information, refer to [[Callouts]].
 
 > [!info]
 > Here's a callout block.
-> It supports **markdown** and [[Internal links|wikilinks]].
+> It supports **markdown** and [[en/Linking notes and files/Internal links|wikilinks]].
 
 ---
 
@@ -560,7 +560,7 @@ graph TD
 Biology --> Chemistry
 ```
 
-Obsidian supports linking to notes in Mermaid, these links won't show up on [[Graph view]].
+Obsidian supports linking to notes in Mermaid, these links won't show up on [[vi/Plugin/Graph view]].
 
 ````md
 ```mermaid
@@ -599,13 +599,13 @@ This way, all the note names (at least until `Z[note name]`) are all automatical
 
 If you use special characters in your note names, you need to put the note name in double quotes.
 `"⨳ special character"`
-It looks like this if you follow the [[Format your notes#^376b9d|second option]]:
+It looks like this if you follow the [[en/How to/Format your notes#^376b9d|second option]]:
 `A["⨳ special character"]`
 
 ---
 
 ## Developer notes
 
-We strive for maximum capability without breaking any existing formats, therefore we use a slightly unorthodox combination of flavors of Markdown. It is broadly CommonMark, with the addition of some functionality from GitHub Flavored Markdown (GFM), some LaTeX support, and our chosen embed syntax, which you can read more about at [[Accepted file formats]].
+We strive for maximum capability without breaking any existing formats, therefore we use a slightly unorthodox combination of flavors of Markdown. It is broadly CommonMark, with the addition of some functionality from GitHub Flavored Markdown (GFM), some LaTeX support, and our chosen embed syntax, which you can read more about at [[en/Advanced topics/Accepted file formats]].
 
 We intentionally don't support parsing Markdown syntax and blank lines within HTML blocks. This is the result of an optimization to handle very large files and to support syncing between editing and reading mode.

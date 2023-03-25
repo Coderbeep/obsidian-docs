@@ -2,7 +2,7 @@ Audio recorder es un complemento que te permite realizar una grabación sin sali
 
 Para usarlo, simplemente haga clic en el ícono del micrófono en el panel izquierdo:
 
-![[Pasted image 8.png]]
+![[zh/附件/Pasted image 8.png]]
 
 El micrófono se coloreará mientras está grabando activamente.
 

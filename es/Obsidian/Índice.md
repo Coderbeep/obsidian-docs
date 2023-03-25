@@ -15,7 +15,7 @@ Para leer más sobre los creadores, consulte la [página acerca de](https://obsi
 
 ### Acerca de la aplicación
 
-- Ver[[Obsidian|nuestra filosofía para la aplicación]].
+- Ver[[es/Obsidian/Obsidian|nuestra filosofía para la aplicación]].
 
 ### Empezando
 

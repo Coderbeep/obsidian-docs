@@ -24,7 +24,7 @@ En el futuro, consideraremos formas más fáciles de usar para administrar alias
 
 Una vez que haya establecido alias para un archivo, puede escribir `[[alias]]` para vincular a la página original. Aparecerá un icono de redireccionamiento en la lista de autocompletar así:
 
-![[Insert alises.png]]
+![[ja/アタッチメント/Insert alises.png]]
 
 Se insertará un enlace interno con texto de visualización así: `[[Add aliases to note|alias]]`.
 
@@ -34,6 +34,6 @@ Nota: el enlace al alias **NO** se inserta como `[[alias]]` para la interoperabi
 
 Una vez que haya establecido alias para una nota, puede encontrar menciones no vinculadas tanto por su nombre como por sus alias.
 
-Por ejemplo, después de establecer "AI" como un alias para "Inteligencia artificial", verá menciones de "AI" en otros archivos en la sección [[Backlinks]].
+Por ejemplo, después de establecer "AI" como un alias para "Inteligencia artificial", verá menciones de "AI" en otros archivos en la sección [[vi/Plugin/Backlinks]].
 
 Si decide vincular esta mención, se creará un vínculo con el texto de visualización establecido en el alias. Siguiendo el ejemplo anterior, `AI` se convertirá `[[Artificial intelligence|AI]]` una vez que haga clic en el botón "Enlace".

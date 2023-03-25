@@ -4,7 +4,7 @@ Du kan åbne en anden Boks hvor som helst på din computer, og den vil beholde s
 
 En ny eller eksisterende Boks kan åbnes via tryk på knappen lige over Instillingsknappen.
 
-![[Vault picker.png]]
+![[zh/附件/Vault picker.png]]
 
 Du har mulighed for at åbne en eksterende mappe med markdown filer, oprette en ny boks (som egentlig bare opretter en ny mappe, hvor du kan gemme markdown filer i), eller åbne en speciel boks, som indeholder denne her hjælp. Hjælpe Boksen er gemt i en specielt Obsidian mappe (Se: [[Hvordan Obsidian gemmer data]]), men udover det, så er det en mappe ligesom alle andre mapper.
 

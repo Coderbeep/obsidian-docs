@@ -1,4 +1,4 @@
-In this guide, you'll enable [[Introduction to Obsidian Sync|Obsidian Sync]] for your vault and sync it with a [[Local and remote vaults|remote vault]].
+In this guide, you'll enable [[en/Obsidian Sync/Introduction to Obsidian Sync|Obsidian Sync]] for your vault and sync it with a [[en/Obsidian Sync/Local and remote vaults|remote vault]].
 
 ### Prerequisites
 
@@ -27,7 +27,7 @@ In this guide, you'll enable [[Introduction to Obsidian Sync|Obsidian Sync]] for
 3. Next to **Remote vault**, click **Choose**.
 4. Click **Create new vault**.
 5. In **Vault name**, enter the name of the remote vault.
-6. In **Encryption password**, choose a password for your vault. This creates an end-to-end encrypted vault. The vault password is separate from your Obsidian account and can be different for each of your vaults. For more information, refer to [[Security and privacy]].
+6. In **Encryption password**, choose a password for your vault. This creates an end-to-end encrypted vault. The vault password is separate from your Obsidian account and can be different for each of your vaults. For more information, refer to [[en/Obsidian Sync/Security and privacy]].
 7. Click **Create**.
 
 ### Connect to a remote vault
@@ -38,6 +38,6 @@ In this guide, you'll enable [[Introduction to Obsidian Sync|Obsidian Sync]] for
 4. Click **Start syncing**.
 
 > [!note] Sync settings and other file types
-> By default, Sync only syncs notes and images. For information how to sync other file types, refer to [[Select files and settings to sync#Select file types to sync|Select file types to sync]].
+> By default, Sync only syncs notes and images. For information how to sync other file types, refer to [[en/Obsidian Sync/Select files and settings to sync#Select file types to sync|Select file types to sync]].
 >
-> If you want to sync vault configuration, such as settings for [[Core plugins]], [[Custom hotkeys]], or [[Community plugins]], learn how to [[Select files and settings to sync#Sync vault configuration|Sync vault configuration]].
+> If you want to sync vault configuration, such as settings for [[en/Plugins/Core plugins]], [[en/Customization/Custom hotkeys]], or [[en/Extending Obsidian/Community plugins]], learn how to [[en/Obsidian Sync/Select files and settings to sync#Sync vault configuration|Sync vault configuration]].

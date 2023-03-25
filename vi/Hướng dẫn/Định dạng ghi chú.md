@@ -23,7 +23,7 @@ Nhúng file khác (đọc thêm về [[Nhúng file]]). Đây là một phần đ
 ![[Obsidian#What is Obsidian]]
 ```
 
-![[Obsidian#What is Obsidian]]
+![[fr/Obsidian#What is Obsidian]]
 
 ---
 

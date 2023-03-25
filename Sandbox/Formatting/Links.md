@@ -38,7 +38,7 @@ If there are spaces in the url, they can be escaped by either using `%20` as a s
 [Format your notes](Format%20your%20notes)
 ```
 
-[Format your notes](Format%20your%20notes.md)
+[Format your notes](Sandbox/Formatting/Format%20your%20notes.md)
 
 Or you can enclose the target in `<>`, such as:
 
@@ -46,4 +46,4 @@ Or you can enclose the target in `<>`, such as:
 [Format your notes](<Format your notes>)
 ```
 
-[Format your notes](<Format your notes>)
+[Format your notes](Sandbox/Formatting/Format%20your%20notes.md your notes>)

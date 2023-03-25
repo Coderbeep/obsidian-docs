@@ -37,15 +37,15 @@ Hệ thống phân cấp cho chúng ta điều đầu tiên và liên kết cho 
 
 Ghi chép là một hoạt động mang tính cá nhân cao. Đương nhiên, không có giải pháp toàn diện duy nhất cho tất cả mọi người.
 
-Thay vì cung cấp cho bạn một sản phẩm được lắp ráp và cố định, [[Obsidian]] cung cấp cho bạn nền tảng và nhiều khối xây dựng chức năng để khám phá và xây dựng giải pháp của riêng bạn.
+Thay vì cung cấp cho bạn một sản phẩm được lắp ráp và cố định, [[vi/Obsidian/Obsidian]] cung cấp cho bạn nền tảng và nhiều khối xây dựng chức năng để khám phá và xây dựng giải pháp của riêng bạn.
 
 Nền tảng là có thể xem, chỉnh sửa và tìm kiếm file. Đối với những người tối giản, vậy là đủ.
 
 Trên hết, bạn có thể thêm các khối xây dựng biệt lập, độc lập để thêm các tính năng vào ghi chú của mình:
 
-- Nếu bạn đang ghi chú trong class, [[Audio recorder]] và toán học LaTeX có thể hữu ích;
+- Nếu bạn đang ghi chú trong class, [[vi/Plugin/Audio recorder]] và toán học LaTeX có thể hữu ích;
 
-- Nếu bạn đang ghi chú trong công việc, [[Slides]] và [[Backlinks]] có thể hữu ích;
+- Nếu bạn đang ghi chú trong công việc, [[vi/Plugin/Slides]] và [[vi/Plugin/Backlinks]] có thể hữu ích;
 
 - Nếu bạn là một nhà nghiên cứu, [[Chế độ đồ họa]] và [[Số từ]] có thể cần thiết cho bộ công cụ của bạn.
 

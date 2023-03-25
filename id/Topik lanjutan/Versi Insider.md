@@ -6,7 +6,7 @@ Harap dicatat versi Insider lebih tidak stabil jika dibandingkan dengan versi pu
 
 Jika Anda seorang [[Lisensi Catalyst|Catalyst supporter]], Anda memiliki akses ke Versi Insider sebelum pengguna publik. Untuk mengaksesnya, pergi ke Pengaturan => Akun, dan masuk dengan kata sandi yang Anda gunakan pada situs Obsidian. Kemudian pergi ke Pengaturan => Tentang, dan aktifkan Versi Insider di sana.
 
-![[Insider.png]]
+![[ja/アタッチメント/Insider.png]]
 
 ### Melaporkan masalah
 

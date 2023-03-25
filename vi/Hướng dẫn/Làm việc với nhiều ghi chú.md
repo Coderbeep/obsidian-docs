@@ -6,7 +6,7 @@ Bạn có thể chỉnh sửa và xem nhiều file cùng một lúc trong Obsidi
 
 Theo mặc định, khi bạn nhấn vào, nó sẽ mở ra trong ngăn hiện hoạt. Ngăn hoạt động được đánh dấu bằng thanh được đánh dấu dưới tiêu đề và tiêu đề của nó hiển thị dễ nhận thấy hơn các ngăn không hoạt động.
 
-Để mở tệp trong các ngăn mới, hãy giữ phím `Ctrl/Cmd` khi bạn nhấn vào ở chế độ Preview (`Shift + Ctrl/Cmd` trong chế độ Edit). Điều này áp dụng cho các kết quả, bao gồm [[file explorer]], [[backlinks]] (cả links và unlinked mentions), [[tìm kiếm]], và [[chế độ xem đồ họa]]. Nó cũng áp dụng cho các nút; thay vì xem trước trong ngăn hiện tại, bạn có thể `Cmd+click` nút xem trước để xem trước trong ngăn mới. Khi sử dụng Công cụ chuyển đổi nhanh, nhấn giữ Quick Switcher, nhấn giữ `Cmd/Ctrl` khi nhấn `Enter` sẽ mở ra trong một ngăn mới.
+Để mở tệp trong các ngăn mới, hãy giữ phím `Ctrl/Cmd` khi bạn nhấn vào ở chế độ Preview (`Shift + Ctrl/Cmd` trong chế độ Edit). Điều này áp dụng cho các kết quả, bao gồm [[vi/Plugin/File explorer]], [[vi/Plugin/Backlinks]] (cả links và unlinked mentions), [[tìm kiếm]], và [[chế độ xem đồ họa]]. Nó cũng áp dụng cho các nút; thay vì xem trước trong ngăn hiện tại, bạn có thể `Cmd+click` nút xem trước để xem trước trong ngăn mới. Khi sử dụng Công cụ chuyển đổi nhanh, nhấn giữ Quick Switcher, nhấn giữ `Cmd/Ctrl` khi nhấn `Enter` sẽ mở ra trong một ngăn mới.
 
 ---
 
@@ -14,7 +14,7 @@ Theo mặc định, khi bạn nhấn vào, nó sẽ mở ra trong ngăn hiện h
 
 Để tạo một bố cục khác, bạn có thể chia ngăn hiện tại làm đôi theo chiều ngang hoặc chiều dọc. Thực hiện việc này với menu ở trên cùng bên phải của ngăn, sử dụng bảng lệnh hoặc đặt [[Phím tắt]].
 
-![[Pasted image 16.png]]
+![[zh/附件/Pasted image 16.png]]
 
 ---
 
@@ -22,7 +22,7 @@ Theo mặc định, khi bạn nhấn vào, nó sẽ mở ra trong ngăn hiện h
 
 Điều này thật tuyệt nếu bạn đang làm việc gì đó và muốn sử dụng các ngăn khác làm ngăn tham chiếu tạm thời. Ghim nó để đảm bảo nó không bao giờ bị thay thế.
 
-![[Pasted image 17.png]]
+![[zh/附件/Pasted image 17.png]]
 
 Các ngăn được ghim sẽ có biểu tượng ghim được đánh dấu thay vì màu xám.
 
@@ -38,7 +38,7 @@ Khi được liên kết với một ngăn khác, vị trí cuộn của các ng
 
 Để biết thêm thông tin, hãy xem [[ngăn được liên kết]].
 
-![[Pasted image 18.png]]
+![[zh/附件/Pasted image 18.png]]
 
 ##### 5. Các ô có thể được ==sắp xếp lại bằng cách kéo==.
 

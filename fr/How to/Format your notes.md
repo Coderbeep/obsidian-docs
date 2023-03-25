@@ -117,7 +117,7 @@ If you put links in tables, they will work, but if you use Piped Links, the pipe
 
 First Header | Second Header
 ------------ | ------------
-[[Format your notes\|Formatting]]	|  [[Keyboard shortcuts\|hotkeys]]	
+[[fr/How to/Format your notes\|Formatting]]	|  [[Keyboard shortcuts\|hotkeys]]	
 
 ---
 
@@ -164,9 +164,9 @@ Link to a page: [[Internal link]].
 
 Embed another file (read more about [[Embed files]]).
 
-![[Obsidian]]
+![[fr/Obsidian]]
 
 
 ## Developer notes
 
-We strive for maximum capability without breaking any existing formats, therefore we use a slightly unorthodox combination of flavors of markdown. It is broadly CommonMark, with the addition of some functionality from GitHub Flavored Markdown (GFM), some latex support, and our chosen embed syntax, which you can read more about at [[Accepted file formats]].
+We strive for maximum capability without breaking any existing formats, therefore we use a slightly unorthodox combination of flavors of markdown. It is broadly CommonMark, with the addition of some functionality from GitHub Flavored Markdown (GFM), some latex support, and our chosen embed syntax, which you can read more about at [[en/Advanced topics/Accepted file formats]].

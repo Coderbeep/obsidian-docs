@@ -23,7 +23,7 @@ Indlejr en anden fil (Læs mere om at [[Indlejre filer]]). Her er en indlejret s
 ![[Obsidian#Hvad er Obsidian]]
 ```
 
-![[Obsidian#Hvad er Obsidian]]
+![[fr/Obsidian#Hvad er Obsidian]]
 
 ---
 
@@ -429,7 +429,7 @@ På den måde vil alle notenavne (i hvert fald indtil `Z[note navn]`) blive auto
 Hvis du benytter specielle tegn i dine notenavne, skal de omkranses af citationstegn.
 `"⨳ specielt tegn"`
 
-Det ser ud på samme måde som når du benytter den [[Format your notes#^376b9d|anden måde]]:
+Det ser ud på samme måde som når du benytter den [[en/How to/Format your notes#^376b9d|anden måde]]:
 `A["⨳ specielt tegn"]`
 
 ## Udvikler noter

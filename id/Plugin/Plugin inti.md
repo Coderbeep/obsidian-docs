@@ -1,4 +1,4 @@
-Salah satu aspek terkuat [[Obsidian]] adalah kemampuan untuk meningkatkan fungsionalitasnya melalui plugin. Telah terdapat beberapa plugin, dan masih banyak yang sedang dalam pengembangan. 
+Salah satu aspek terkuat [[fr/Obsidian]] adalah kemampuan untuk meningkatkan fungsionalitasnya melalui plugin. Telah terdapat beberapa plugin, dan masih banyak yang sedang dalam pengembangan. 
 
 Anda juga dapat membuat plugin Obsidian Anda sendiri. Lihat [[Plugin komunitas]].
 

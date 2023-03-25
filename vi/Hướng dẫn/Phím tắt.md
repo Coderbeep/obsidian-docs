@@ -1,4 +1,4 @@
-Nếu bạn đã bật [[Command palette]], bạn có thể sử dụng `Ctrl/Cmd+P` để hiển thị nó, nó sẽ hiển thị cho bạn tất cả các lệnh hiện có và phím tắt của chúng.
+Nếu bạn đã bật [[vi/Plugin/Command palette]], bạn có thể sử dụng `Ctrl/Cmd+P` để hiển thị nó, nó sẽ hiển thị cho bạn tất cả các lệnh hiện có và phím tắt của chúng.
 
 Hầu hết các phím tắt có thể được tùy chỉnh theo nhu cầu của bạn trong Settings => Hotkeys. 
 

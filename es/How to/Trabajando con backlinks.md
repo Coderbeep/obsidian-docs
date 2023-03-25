@@ -2,7 +2,7 @@ Los backlinks son una de las características más poderosas de Obsidian. Como r
 
 El panel de backlinks tiene dos secciones, menciones vinculadas y menciones desvinculadas.
 
-![[Backlinks.png]]
+![[ja/アタッチメント/Backlinks.png]]
 
 Como puede ver, en este documento, actualmente hay una entrada en cada sección. En Menciones vinculadas se puede ver que hice un vínculo a este documento en la nota [[Panel vinculado]]. Pero también puede ver en Desvinculado menciones que escribí el nombre de esta nota pero no la convertí en un enlace.
 

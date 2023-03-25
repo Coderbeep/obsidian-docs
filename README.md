@@ -46,7 +46,7 @@ If your language is months behind, we recommend opening the English documentatio
 
 ### Adding yourself to credits
 
-Thanks for contributing to Obsidian's documentation! To feature yourself on our [[Credits]] page, simply create a pull request to the `/en/Obsidian/Credits` file. You can update the `YOUR LANGUAGE/Obsidian/Credits` file as well.
+Thanks for contributing to Obsidian's documentation! To feature yourself on our [[en/Obsidian/Credits]] page, simply create a pull request to the `/en/Obsidian/Credits` file. You can update the `YOUR LANGUAGE/Obsidian/Credits` file as well.
 
 ## Handling image attachments
 

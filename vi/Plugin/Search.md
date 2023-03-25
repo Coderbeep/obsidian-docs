@@ -1,4 +1,4 @@
-![[Search.png]]
+![[zh/附件/Search.png]]
 
 Search là một tính năng mạnh mẽ và có khả năng gây nhầm lẫn. Trong hầu hết các trường hợp, nếu bạn chỉ cần nhập những gì bạn muốn tìm, nó sẽ hoạt động. Nhưng tìm kiếm có nhiều khả năng thu hẹp để tìm chính xác những gì bạn muốn.
 
@@ -28,7 +28,7 @@ Có một số chuyển đổi có sẵn trong khi tìm kiếm:
 - `Explain search term` sẽ hiển thị cho bạn những gì truy vấn tìm kiếm thực sự làm bằng các thuật ngữ đơn giản.
 - `Collapse results` sẽ chuyển đổi giữa việc chỉ hiển thị các tên ghi chú phù hợp và hiển thị các dòng mà các kết quả phù hợp xuất hiện. Các kết quả mở rộng này có thể được chuyển đổi cho từng ghi chú bằng cách nhấp vào hình tam giác thu gọn bên cạnh tên file.
 - `Show more context` sẽ mở rộng hiển thị các kết quả để hiển thị nhiều văn bản hơn xung quanh kết quả.
-- `Change sort order` sắp xếp kết quả theo nhiều thứ tự khác nhau, tương tự như cách sắp xếp tệp trong [[File explorer]].
+- `Change sort order` sắp xếp kết quả theo nhiều thứ tự khác nhau, tương tự như cách sắp xếp tệp trong [[vi/Plugin/File explorer]].
 
 ## Sao chép kết quả tìm kiếm
 

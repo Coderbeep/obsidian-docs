@@ -1,18 +1,18 @@
 If you're in a hurry, here's some quick places to dive in:
 
-- The [[Command palette]] contains most of the commands you need to work with Obsidian. Just press `Ctrl/Cmd-P` and start typing.
-- How to [[Create notes|create new notes]].
-- How to create [[Internal links]]
-- How to use Markdown to [[Format your notes]]
-- How to [[Embedding files|embed files]] or other notes
-- How to [[Working with multiple notes|open multiple files side by side]]
-- Obsidian can be extended with [[Core plugins|plugins]]. Several are available by default, and can be enabled or disabled according to your needs.
+- The [[en/Plugins/Command palette]] contains most of the commands you need to work with Obsidian. Just press `Ctrl/Cmd-P` and start typing.
+- How to [[en/How to/Create notes|create new notes]].
+- How to create [[en/Linking notes and files/Internal links]]
+- How to use Markdown to [[en/How to/Format your notes]]
+- How to [[en/Linking notes and files/Embedding files|embed files]] or other notes
+- How to [[en/How to/Working with multiple notes|open multiple files side by side]]
+- Obsidian can be extended with [[en/Plugins/Core plugins|plugins]]. Several are available by default, and can be enabled or disabled according to your needs.
 
-If you want a more thorough introduction, including a bit about our philosophy, check out [[Obsidian]].
+If you want a more thorough introduction, including a bit about our philosophy, check out [[en/Obsidian/Obsidian]].
 
-And if you'd like a gentle introduction, or just want to get started but don't know how, head over to [[Basic note taking]].
+And if you'd like a gentle introduction, or just want to get started but don't know how, head over to [[en/How to/Basic note taking]].
 
-If you are a [Catalyst supporter](https://obsidian.md/pricing), and want to turn on Insider Builds, see [[Insider builds]].
+If you are a [Catalyst supporter](https://obsidian.md/pricing), and want to turn on Insider Builds, see [[en/Advanced topics/Insider builds]].
 
 ## Workflows
 
@@ -20,13 +20,13 @@ Obsidian is a tool that can be used in many ways, from a simple list of notes to
 
 Here are a few ways to get started:
 
-If you want to just start taking notes, check out [[Basic note taking]]
+If you want to just start taking notes, check out [[en/How to/Basic note taking]]
 
 If you already have a collection of notes in markdown format, just choose them for your vault. Choose "Vault" in the lower left and select the folder your notes are in.
 
-If you have notes from Roam Research, Notion, or other systems, [[Import data|here's how to import them]].
+If you have notes from Roam Research, Notion, or other systems, [[en/How to/Import data|here's how to import them]].
 
-If you'd like to know more about Obsidian, you can [[Obsidian|read about our story]].
+If you'd like to know more about Obsidian, you can [[en/Obsidian/Obsidian|read about our story]].
 
 By the way, you can feel free to edit these help docs, but when you open it again, they will be overwritten. So, don't put anything in them you want to keep.
 

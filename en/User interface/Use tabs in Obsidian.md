@@ -22,7 +22,7 @@ To open a link in a new tab, press `Ctrl` (or `Cmd` on macOS) and select the lin
 
 ## Organize your tabs and windows
 
-Every tab belongs to a _tab group_. You can drag and drop tabs to rearrange them within a tab group, move them to a different tab group, or create a new tab group. On desktop, you can drag tabs out of their window to open them in a separate [[Pop-out windows|pop-out window]].
+Every tab belongs to a _tab group_. You can drag and drop tabs to rearrange them within a tab group, move them to a different tab group, or create a new tab group. On desktop, you can drag tabs out of their window to open them in a separate [[en/User interface/Pop-out windows|pop-out window]].
 
 Tabs in sidebars only show the icon. Hover over the icon to show a tooltip with the tab title.
 
@@ -87,9 +87,9 @@ _Linked views_ are tabs that reference a different tab. When the content of the 
 
 For note tabs, you can use the following plugins as linked views:
 
-- [[Graph view]] (local)
-- [[Backlinks]]
-- [[Outline]]
+- [[vi/Plugin/Graph view]] (local)
+- [[vi/Plugin/Backlinks]]
+- [[vi/Plugin/Outline]]
 
 To open a linked view for a note tab:
 
@@ -98,4 +98,4 @@ To open a linked view for a note tab:
 
 ## Learn more
 
-- You can save and restore window layouts using the [[Workspaces]] plugin.
+- You can save and restore window layouts using the [[vi/Plugin/Workspaces]] plugin.

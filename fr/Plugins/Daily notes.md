@@ -6,5 +6,5 @@ Le format de date et le dossier par défaut pour Daily Notes peuvent être défi
 
 Vous pouvez également définir un fichier modèle pour les notes quotidiennes. Ce fichier sera copié dans votre note quotidienne lors de sa création, c'est donc un bon endroit pour mettre des balises ou des liens que vous utilisez tous les jours.
 
-Vous pouvez créer une note quotidienne soit en cliquant sur l'icône de calendrier dans le panneau de gauche, soit avec la [[Command palette]]. Vous pouvez également définir un raccourci clavier dans [[Keyboard shortcuts]].
+Vous pouvez créer une note quotidienne soit en cliquant sur l'icône de calendrier dans le panneau de gauche, soit avec la [[fr/Plugins/Command palette]]. Vous pouvez également définir un raccourci clavier dans [[Keyboard shortcuts]].
 

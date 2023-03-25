@@ -1,9 +1,9 @@
-The Outgoing links plugin shows the links from the active note at a glance, as well as potential links to be made. It's similar to the [[Backlinks]] plugin, which instead shows you _incoming_ links to the active note.
+The Outgoing links plugin shows the links from the active note at a glance, as well as potential links to be made. It's similar to the [[en/Plugins/Backlinks]] plugin, which instead shows you _incoming_ links to the active note.
 
 The Outgoing links pane (link with right arrow icon) is available in the right sidebar and contains the following sections:
 
 - **Links** lists all links in the active note. Click a link to open the linked note.
-- **Unlinked mentions** lists any text in the active note that matches the name or [[Aliases|alias]] of another note in your vault. Unlinked mentions helps you discover links you aren't aware of yet.
+- **Unlinked mentions** lists any text in the active note that matches the name or [[en/Linking notes and files/Aliases|alias]] of another note in your vault. Unlinked mentions helps you discover links you aren't aware of yet.
 
 To create a link from an unlinked mention, click the button with the note's name.
 

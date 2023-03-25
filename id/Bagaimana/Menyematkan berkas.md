@@ -2,9 +2,9 @@
 
 Anda dapat sematkan file lampiran seperti gambar dan suara di catatan Anda. Gunakan sintaks seperti `![[namagambar.png]]`:
 
-![[Engelbart.jpg]]
+![[zh/附件/Engelbart.jpg]]
 
-![[Excerpt from Mother of All Demos (1968).ogg]]
+![[zh/附件/Excerpt from Mother of All Demos (1968).ogg]]
 
 Anda dapat menyematkan berkas PDF di catatan Anda dengan sintaks yang sama. Tambahan, Anda dapat menulis `[[Berkas Saya.pdf#page=nomorhalaman]]` untuk membuka ke halaman tertentu dari PDF secara langsung.
 

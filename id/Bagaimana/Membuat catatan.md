@@ -4,13 +4,13 @@ Catatan dibuat dengan beberapa cara, bergantung pada alur kerja Anda:
 
 1. **Pendekatan link-first**. Jika Anda suka bebas membuat catatan, cukup gunakan [[Tautan internal]] untuk menghubungkan ke nama catatan apa pun (tidak harus ke catatan yang telah ada). Untuk menulis dalam catatan yang baru dibuat, cukup klik pada nama tautan. Catatan akan otomatis dibuat di Vault Anda dan siap untuk mengetik!
 
-![[Pasted image 3.png]]
+![[zh/附件/Pasted image 3.png]]
 
 Setelah membuat catatan, nama catatan akan muncul di penyelesaian tautan internal otomatis, jadi Anda tidak perlu mengetikkan nama catatan setiap saat. Ketika Anda ketik `[[` munculan akan hadir menunjukan semua catatan di Vault Anda. Cukup ketik hingga Anda melihat catatan yang Anda inginkan, dan tekan `Enter` atau menekannya, dan namanya akan secara otomatis terisi.
 
 Jika Anda telah mempunyai folder di [[Penjelajah berkas]], Anda dapat klik kanan pada folder tersebut untuk membuat catatan di dalamnya: 
 
-![[Pasted image 4.png]]
+![[zh/附件/Pasted image 4.png]]
 
 Terdapat juga tombol pada bagian atas penjelajah berkas untuk membuat catatan atau folder baru.
 

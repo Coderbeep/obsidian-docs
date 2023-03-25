@@ -12,7 +12,7 @@ For at modtage insider versioner så snart de er tilgængelige skal du følge di
 2. Vælge **Om** i sidebjælken
 3. Under **Applikation** skal du aktivere **Modtag insider versioner**
 
-![[Insider.png]]
+![[ja/アタッチメント/Insider.png]]
 
 ## Sådan installeres insider versioner på mobil enheder
 For at finde instruktioner på hvordan du installerer insider versioner på din mobil enhed, så følg disse trin:

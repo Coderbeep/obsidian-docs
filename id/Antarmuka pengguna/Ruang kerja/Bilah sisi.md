@@ -1,4 +1,4 @@
-Obsidian memiliki dua bilah sisi di kanan dan kirinya. Bilah sisi sebelah kiri termasuk dengan [[Ribbon]].
+Obsidian memiliki dua bilah sisi di kanan dan kirinya. Bilah sisi sebelah kiri termasuk dengan [[id/Antarmuka pengguna/Ruang kerja/Ribbon]].
 
 ## Membuka bilah sisi tersembunyi
 

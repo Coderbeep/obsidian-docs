@@ -8,7 +8,7 @@ Ver [[Trabajar con varias notas#5 Los paneles se pueden reorganizar arrastrando|
 
 - Puede arrastrar un archivo o varios archivos desde el [[Explorador de archivos]].
 - Puede arrastrar un archivo desde un resultado de [[Buscar]].
-- Puede arrastrar un archivo desde [[Backlinks]] o referencias no vinculadas.
+- Puede arrastrar un archivo desde [[vi/Plugin/Backlinks]] o referencias no vinculadas.
 - Puede arrastrar un archivo desde las [[Notas destacadas]].
 - Puede arrastrar un archivo desde un enlace dentro de la nota, en modo de vista previa.
 

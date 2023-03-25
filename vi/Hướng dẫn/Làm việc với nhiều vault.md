@@ -4,7 +4,7 @@ Bạn có thể mở một Vault khác ở bất kỳ đâu trên máy tính c�
 
 Bạn có thể mở Vault mới hoặc hiện có từ nút ngay phía trên bánh răng Cài đặt.
 
-![[Vault picker.png]]
+![[zh/附件/Vault picker.png]]
 
 Bạn có tùy chọn mở một thư mục hiện có chứa các file markdown, tạo một vault mới (về cơ bản chỉ tạo một thư mục mới mà bạn sẽ đặt các file markdown vào) hoặc mở một vault đặc biệt chứa các file trợ giúp này. Help Vault được lưu trữ trong một thư mục Obsidian đặc biệt (xem [[Cách Obsidian lưu trữ dữ liệu]]), nhưng bên cạnh đó, nó là một thư mục chứa các file giống như bất kỳ thư mục nào khác.
 

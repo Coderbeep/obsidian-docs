@@ -34,4 +34,4 @@ First Header | Second Header
 
 First Header | Second Header
 ------------ | ------------
-[[Format your notes\|Formatting]]	|  [[Callout\|Callouts]]
+[[Sandbox/Formatting/Format your notes\|Formatting]]	|  [[Callout\|Callouts]]

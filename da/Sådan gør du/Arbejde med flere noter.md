@@ -12,7 +12,7 @@ For at åbne filer i nye paneler skal du holde `Ctrl/Cmd` nede mens du klikker i
 
 For at oprette andre layouts kan du splitte det nuværende panel i to, enten vandret eller lodret. For at gøre dette skal du enten benytte menuen øverst til højre på panelet, benytte komanndopaletten eller oprette en [[Tastaturgenveje|Tastaturgenvej]].
 
-![[Pasted image 16.png]]
+![[zh/附件/Pasted image 16.png]]
 
 ---
 
@@ -20,7 +20,7 @@ For at oprette andre layouts kan du splitte det nuværende panel i to, enten van
 
 Dette er godt, hvis du arbejder på et eller andet og vil benytte de andre paneler som midlertidige referencepaneler. Fastgør panelet for at sikre, at det ikke bliver erstattet.
 
-![[Pasted image 17.png]]
+![[zh/附件/Pasted image 17.png]]
 
 Fastgjorte paneler vil have et fremhævet nåle icon i stedet for et, der er grået ud.
 
@@ -36,7 +36,7 @@ Når et panel er linket til et andet, så vil positionen i indholdet blive synkr
 
 Se mere information her: [[Sammenkædede paneler]].
 
-![[Pasted image 18.png]]
+![[zh/附件/Pasted image 18.png]]
 
 ### 5. Paneler kan  omarrangeres ved at trække dem rundt
 

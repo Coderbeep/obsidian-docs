@@ -1,8 +1,8 @@
-This page explains how you can customize how your [[Introduction to Obsidian Publish|Obsidian Publish]] site looks and feels.
+This page explains how you can customize how your [[en/Obsidian Publish/Introduction to Obsidian Publish|Obsidian Publish]] site looks and feels.
 
 ## Static assets
 
-You can customize your site by [[Publish and unpublish notes#Publish notes|publishing]] the following files to your site:
+You can customize your site by [[en/Obsidian Publish/Publish and unpublish notes#Publish notes|publishing]] the following files to your site:
 
 - `publish.css` to add custom CSS
 - `publish.js` to add custom JavaScript
@@ -12,7 +12,7 @@ You can customize your site by [[Publish and unpublish notes#Publish notes|publi
 
 - Since Obsidian doesn't support CSS or JavaScript files, you need to use another application to create and edit them.
 - By default, `publish.css` and `publish.js` don't appear in the file explorer, but you can still publish them from the **Publish changes** dialog.
-- To use custom JavaScript with `publish.js`, you need to [[Set up a custom domain]].
+- To use custom JavaScript with `publish.js`, you need to [[en/Obsidian Publish/Set up a custom domain]].
 
 For favicons, Obsidian Publish supports the following naming conventions, where `32` is the icon dimensions in pixels:
 
@@ -40,15 +40,15 @@ To use one of the community themes for your site:
 4. Copy the CSS file for the theme you want to use for your site.
 5. Paste the file into the root folder of your vault.
 6. Rename the CSS file to `publish.css`.
-7. [[Publish and unpublish notes#Publish notes|Publish]] `publish.css`.
+7. [[en/Obsidian Publish/Publish and unpublish notes#Publish notes|Publish]] `publish.css`.
 
 **Notes:**
 
 - If the style doesn't change within a few minutes, you may need to refresh your browser cache.
-- You can switch between light and dark mode in the [[Manage sites#View site options|site options]].
+- You can switch between light and dark mode in the [[en/Obsidian Publish/Manage sites#View site options|site options]].
 
 ## Enable UI features
 
 You can toggle several UI features for your site, such as the graph view or a table of contents.
 
-Browse the available UI features under the **Reading experience** and **Components** sections in the [[Manage sites#View site options|site options]]
+Browse the available UI features under the **Reading experience** and **Components** sections in the [[en/Obsidian Publish/Manage sites#View site options|site options]]

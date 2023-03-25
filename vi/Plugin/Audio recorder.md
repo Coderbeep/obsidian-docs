@@ -2,7 +2,7 @@ Audio recorder là một plugin cho phép bạn ghi âm mà không cần rời k
 
 Để sử dụng, chỉ cần nhấp vào biểu tượng micrô ở bảng điều khiển bên trái:
 
-![[Pasted image 8.png]]
+![[zh/附件/Pasted image 8.png]]
 
 Micrô sẽ có màu khi đang ghi âm.
 

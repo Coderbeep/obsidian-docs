@@ -7,7 +7,7 @@ Los complementos se pueden administrar a través del botón "Configuración" en 
 ### Lista actual de complementos oficiales
 
 - [[Explorador de archivos]]
-- [[Backlinks]]
+- [[es/Plugins/Backlinks]]
 - [[Vista de gráfico]]
 - [[Conmutador rápido]]
 - [[Buscar]]

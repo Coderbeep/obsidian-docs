@@ -3,7 +3,7 @@ Muestra una representación gráfica de los  [[Enlace interno|enlaces internos]]
 Las notas con más notas que le hacen referencia aparecen como nodos más grandes en el gráfico.
 
 
-![[Pasted image 10.png]]
+![[zh/附件/Pasted image 10.png]]
 
 
 ### Consejos de visualización

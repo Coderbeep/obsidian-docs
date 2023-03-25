@@ -1,4 +1,4 @@
-Plugin Outgoing Links hiển thị nhanh các liên kết từ ghi chú hiện tại, cũng như các liên kết tiềm năng sẽ được tạo. Nếu bạn đã quen thuộc với plugin [[Backlinks]], bạn có thể coi các outgoing links là hướng ngược lại của các backlinks.
+Plugin Outgoing Links hiển thị nhanh các liên kết từ ghi chú hiện tại, cũng như các liên kết tiềm năng sẽ được tạo. Nếu bạn đã quen thuộc với plugin [[vi/Plugin/Backlinks]], bạn có thể coi các outgoing links là hướng ngược lại của các backlinks.
 
 Sau khi bật plugin, bạn sẽ thấy một ngăn mới trong sidebar bên phải, trong đó có hai phần: "Links" và "Unlinked mentions".
 

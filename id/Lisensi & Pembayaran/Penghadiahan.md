@@ -4,7 +4,7 @@ Meskipun penggunaan Obsidian untuk kebutuhan pribadi itu sepenuhnya bebas biaya,
 
 Pada Obsidian, Anda tidaklah menghadiahkan produk tertentu, tetapi memberikan Obsidian Credit yang dapat digunakan untuk apa pun. Ini seperti halnya sebuah Obsidian gift card.
 
-1. Jika Anda belum memiliki [[Obsidian Credit]], pertama-tama Anda perlu [[Obsidian Credit#Menambahkan kredit|menambahkan kredit]].
+1. Jika Anda belum memiliki [[id/Lisensi & Pembayaran/Obsidian Credit]], pertama-tama Anda perlu [[id/Lisensi & Pembayaran/Obsidian Credit#Menambahkan kredit|menambahkan kredit]].
 3. [Pada Laman akun](https://obsidian.md/account), di **Payment & billing** > **Obsidian Credit**, klik **Gift**.
 3. Ikuti perintah untuk mendapatkan tautan penukaran untuk Anda kirim sendiri, atau membiarkan kami mengirim pesan surel secara anonim kepada penerima.
 4. Klik **Send gift** untuk menyelesaikan penghadiahan.

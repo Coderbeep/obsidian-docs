@@ -12,12 +12,12 @@ To start using Canvas, you first need to create a file to hold your canvas. You 
 
 **Command palette:**
 
-1. Open the [[Command palette]].
+1. Open the [[en/Plugins/Command palette]].
 2. Select **Canvas: Create new canvas** to create a canvas in the same folder as the active file.
 
 **File explorer:**
 
-- In the [[File explorer]], right-click the folder you want to create the canvas in.
+- In the [[en/Plugins/File explorer]], right-click the folder you want to create the canvas in.
 - Select **New canvas**.
 
 > [!note]  The .canvas file extension
@@ -43,7 +43,7 @@ To convert a text card to a file:
 2. Enter the note name and then select **Save**.
 
 > [!note]
-> Text-only cards don't appear in [[Backlinks]]. To make them appear, you need to convert them to a file.
+> Text-only cards don't appear in [[en/Plugins/Backlinks]]. To make them appear, you need to convert them to a file.
 
 ### Add cards from notes
 
@@ -57,7 +57,7 @@ You can also add notes from the canvas context menu:
 1. Right-click the canvas and then select **Add note from vault**.
 2. Select the note you want to add.
 
-Or, you can add them to the canvas by dragging the file from the [[File explorer]].
+Or, you can add them to the canvas by dragging the file from the [[en/Plugins/File explorer]].
 
 ### Add cards from media
 
@@ -71,7 +71,7 @@ You can also add media from the canvas context menu:
 1. Right-click the canvas and then select **Add media from vault**.
 2. Select the media file you want to add.
 
-Or, you can add them to the canvas by dragging the file from the [[File explorer]].
+Or, you can add them to the canvas by dragging the file from the [[en/Plugins/File explorer]].
 
 ### Add cards from web pages
 

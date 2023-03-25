@@ -34,11 +34,11 @@ Thêm thanh tìm kiếm vào trang. Thanh này có thể được sử dụng đ
 
 ##### Chế độ xem đồ họa
 
-Hiển thị biểu đồ cục bộ của trang hiện đang mở. Nó sử dụng công cụ kết xuất tương tự như plugin [[Graph View]] trong Obsidian.
+Hiển thị biểu đồ cục bộ của trang hiện đang mở. Nó sử dụng công cụ kết xuất tương tự như plugin [[vi/Plugin/Graph view]] trong Obsidian.
 
 ##### Mục lục
 
-Hiển thị mục lục cho trang hiện đang mở. Danh sách được tạo từ các tiêu đề trong trang, tương tự như plugin [[Outline]]. Người xem điều hướng ghi chú sẽ thấy tiêu đề tương ứng được đánh dấu khi họ cuộn và có thể nhấn vào tiêu đề khác để chuyển đến chúng ngay lập tức.
+Hiển thị mục lục cho trang hiện đang mở. Danh sách được tạo từ các tiêu đề trong trang, tương tự như plugin [[vi/Plugin/Outline]]. Người xem điều hướng ghi chú sẽ thấy tiêu đề tương ứng được đánh dấu khi họ cuộn và có thể nhấn vào tiêu đề khác để chuyển đến chúng ngay lập tức.
 
 ##### Liên kết ngược
 

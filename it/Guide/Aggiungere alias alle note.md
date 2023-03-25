@@ -24,7 +24,7 @@ In futuro, prenderemo in considerazione modi più intuitivi per gestire gli alia
 
 Dopo aver impostato gli alias per un file, è possibile scrivere `[[alias]]` per collegarsi alla pagina originale. Un'icona di reindirizzamento verrà visualizzata nell'elenco di completamento automatico, in questo modo:
 
-![[Insert alises.png]]
+![[ja/アタッチメント/Insert alises.png]]
 
 Verrà inserito un collegamento interno con testo personalizzato:  `[[Aggiungere alias alle note|alias]]`.
 

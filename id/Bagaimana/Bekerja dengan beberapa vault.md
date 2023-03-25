@@ -4,7 +4,7 @@ Anda dapat membuka Vault lain di mana pun di komputer Anda, dan ia akan menyimpa
 
 Vault baru ataupun yang sudah tersedia dapat dibuka melalui tombol yang terletak di atas gerigi Pengaturan.
 
-![[Vault picker.png]]
+![[zh/附件/Vault picker.png]]
 
 Anda memiliki opsi untuk membuka folder dari berkas-berkas markdown, membuat vault baru (sebenarnya hanya membuat folder baru sebagai wadah Anda menempatkan berkas-berkas markdown), ataupun membuka vault khusus yang berisikan berkas-berkas bantuan. Vault Bantuan disimpan pada direktori khusus dari Obsidian (lihat [[Bagaimana Obsidian menyimpan data]]), di samping dari itu, ia hanyalah direktori dari berkas-berkas seperti halnya yang lain.
 

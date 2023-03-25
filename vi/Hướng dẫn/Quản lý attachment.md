@@ -34,7 +34,7 @@ Theo mặc định, các attachment mới sẽ bị xóa trong thư mục gốc 
 
 Bạn có thể chọn một thư mục cố định để đặt các attachment. Để thực hiện việc này, hãy chọn "In the folder specified below" và chọn một thư mục trong vault trong trường mới bổ sung.
 
-Ngoài ra, bạn có thể nhấp chuột phải vào một thư mục trong [[File explorer]] và chọn "Set as attachment folder".
+Ngoài ra, bạn có thể nhấp chuột phải vào một thư mục trong [[vi/Plugin/File explorer]] và chọn "Set as attachment folder".
 
 ### Cùng một thư mục với file hiện tại
 

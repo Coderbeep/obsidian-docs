@@ -34,4 +34,4 @@ Ngoài `{{date}}` và `{{time}}`, sẽ hoạt động trong tất cả các file
 
 ### Sử dụng định dạng ngày tùy chỉnh ở những nơi khác
 
-Hiện tại, các ngày như `{{date:YYYY-MM-DD}}` và `{{time:HH:mm}}` cũng hoạt động trong file mẫu của [[Daily notes]] và plugin [[Zettelkasten prefixer]]. Tuy nhiên, `{{date}}` và `{{time}}` vẫn chưa hoạt động.
+Hiện tại, các ngày như `{{date:YYYY-MM-DD}}` và `{{time:HH:mm}}` cũng hoạt động trong file mẫu của [[vi/Plugin/Daily notes]] và plugin [[Zettelkasten prefixer]]. Tuy nhiên, `{{date}}` và `{{time}}` vẫn chưa hoạt động.

@@ -6,7 +6,7 @@ Slide memberikan Anda presentasi sederhana di dalam Obsidian.
 
 2. Untuk memulai presentasi, klik tombol berikut setelah membuka catatan:
 
-![[Pasted image 14.png]]
+![[zh/附件/Pasted image 14.png]]
 
 ### Contoh
 

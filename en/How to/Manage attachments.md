@@ -8,7 +8,7 @@ There are several ways to include attachments in your notes:
 
 After being added, these attachment files are just normal files and can still be accessed through your file system.
 
-Please note that only [[Accepted file formats]] are handled.
+Please note that only [[en/Advanced topics/Accepted file formats]] are handled.
 
 ### Copy and paste
 
@@ -22,7 +22,7 @@ If you drag and drop a file from your file explorer, it will be copied to your v
 
 ### Download or copy to vault folder
 
-This can work well when paired with [[Capture information#Use a clipper extension|clipper extensions]].
+This can work well when paired with [[en/How to/Capture information#Use a clipper extension|clipper extensions]].
 
 You can also download images from your browser into your vault folder directly for later reference.
 
@@ -34,7 +34,7 @@ By default, new attachments will be dropped in the root of your vault. You can f
 
 You can choose a fixed folder to always place your attachments in. To do this, choose "In the folder specified below", and choose a folder in your vault in the new field that appears.
 
-Alternatively, you can right click on a folder in [[File explorer]] and choose "Set as attachment folder".
+Alternatively, you can right click on a folder in [[vi/Plugin/File explorer]] and choose "Set as attachment folder".
 
 ### Same folder as current file
 

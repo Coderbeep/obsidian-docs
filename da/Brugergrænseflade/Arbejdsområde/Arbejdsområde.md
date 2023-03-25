@@ -1,7 +1,7 @@
-Et arbejdsområde i [[Obsidian]] indholder følgende komponenter:
+Et arbejdsområde i [[fr/Obsidian]] indholder følgende komponenter:
 
 - [[Titelbar]]
-- [[Sidebar|Sidebarer]]
+- [[en/User interface/Workspace/Sidebar|Sidebarer]]
 	- [[Sidepanel#Paneler|Paneler]]
 		- [[Sidepanel#Faner|Faner]]
 	- [[Båndmenu]] (Kun i venstre side)

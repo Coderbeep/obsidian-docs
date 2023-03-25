@@ -1,4 +1,4 @@
-Salah satu hal yang membuat [[Obsidian]] berbeda dengan aplikasi catatan lainnya ialah begitu mudahnya untuk membuka banyak berkas pada konfigurasi yang sesuai dengan keinginan Anda.
+Salah satu hal yang membuat [[fr/Obsidian]] berbeda dengan aplikasi catatan lainnya ialah begitu mudahnya untuk membuka banyak berkas pada konfigurasi yang sesuai dengan keinginan Anda.
 
 Jendela berkas akan terbuka pada yang kami sebut dengan "panel". Anda dapat mempunyai panel sebanyak mungkin.
 

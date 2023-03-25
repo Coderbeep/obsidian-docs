@@ -6,7 +6,7 @@ Cửa sổ mà file được mở vào là cái mà chúng tôi gọi là "pane"
 
 #### Mở liên kết
 
-Nói chung, bạn có thể nhấp vào liên kết đến file trong khi giữ Ctrl (trên Windows và Linux) hoặc Cmd (trên macOS) để mở file trong ngăn mới. Điều này bao gồm việc nhấp vào các file trong kết quả [[File explorer]], [[Tìm kiếm]], [[Liên kết ngược]], [[Chế độ đồ họa]], v.v...
+Nói chung, bạn có thể nhấp vào liên kết đến file trong khi giữ Ctrl (trên Windows và Linux) hoặc Cmd (trên macOS) để mở file trong ngăn mới. Điều này bao gồm việc nhấp vào các file trong kết quả [[vi/Plugin/File explorer]], [[Tìm kiếm]], [[Liên kết ngược]], [[Chế độ đồ họa]], v.v...
 
 Ngoại lệ đáng chú ý duy nhất là trong editor. Bởi vì trong editor, một cú nhấp chuột sẽ chỉnh sửa văn bản liên kết chứ không phải mở nó, `Ctrl/Cmd-Click` được sử dụng để mở liên kết. Do đó, bạn sẽ cần phải giữ phím Shift ngoài Ctrl/Cmd để mở liên kết trong một ngăn mới.
 
@@ -48,4 +48,4 @@ Hotkey để chuyển đổi giữa editor và xem trước chỉ hoạt động
 
 ### Lưu và tải bố cục ngăn
 
-Plugin [[Workspaces]] giúp bạn dễ dàng quay lại bố cục ngăn cụ thể. Hãy thử một lần!
+Plugin [[vi/Plugin/Workspaces]] giúp bạn dễ dàng quay lại bố cục ngăn cụ thể. Hãy thử một lần!

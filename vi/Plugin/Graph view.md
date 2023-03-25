@@ -2,7 +2,7 @@ Hiển thị trình bày biểu đồ của [[Liên kết nội bộ]] giữa c�
 
 Ghi chú với nhiều ghi chú tham chiếu hơn, nó xuất hiện dưới dạng các nút lớn hơn trên biểu đồ.
 
-![[Pasted image 10.png]]
+![[zh/附件/Pasted image 10.png]]
 
 ### Mẹo về hình ảnh hóa
 

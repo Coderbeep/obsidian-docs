@@ -37,7 +37,7 @@ La jerarquía nos da el n.° 1 y la vinculación nos da el n.° 2. Todavía no e
 
 Tomar notas es una actividad muy personal. Naturalmente, no existe una solución única que lo abarque todo para todos.
 
-En lugar de proporcionarle un producto obstinado y ensamblado, [[Obsidian]] le brinda una base y numerosos bloques de construcción funcionales para descubrir y construir su propia solución.
+En lugar de proporcionarle un producto obstinado y ensamblado, [[es/Obsidian/Obsidian]] le brinda una base y numerosos bloques de construcción funcionales para descubrir y construir su propia solución.
 
 La base es poder ver archivos, editarlos y buscarlos. Para el minimalista, eso es suficiente.
 
@@ -45,7 +45,7 @@ Además de eso, puede agregar bloques de construcción aislados e independientes
 
 - Si está tomando notas de clase, [[Grabadora de audio]] y las matemáticas de LaTeX pueden ser útiles;
 
-- Si está tomando notas de trabajo, [[Diapositivas]] y [[Backlinks]] pueden resultar útiles;
+- Si está tomando notas de trabajo, [[Diapositivas]] y [[vi/Plugin/Backlinks]] pueden resultar útiles;
 
 - Si es un investigador, [[Vista de gráfico]] y [[Recuento de palabras]] pueden ser esenciales para su kit de herramientas.
 

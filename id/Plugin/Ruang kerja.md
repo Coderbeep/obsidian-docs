@@ -1,6 +1,6 @@
 Plugin Ruang kerja mempersilakan Anda untuk menyimpan dan memuat "ruang kerja". Setiap Ruang kerja termasuk tata letak panel, kondisi bilah sisi (terbuka atau tertutup), serta kondisi berkas terbuka.
 
-![[Pasted image 19.png]]
+![[ja/アタッチメント/Pasted image 19.png]]
 
 ### Menyimpan ruang kerja
 

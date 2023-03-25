@@ -2,9 +2,9 @@
 
 Du kan indlejre vedhæftede filer som f.eks. billeder eller lyd i dine noter. Benyt sytaksen  `![[filnavn.png]]` sådan her:
 
-![[Engelbart.jpg]]
+![[zh/附件/Engelbart.jpg]]
 
-![[Excerpt from Mother of All Demos (1968).ogg]]
+![[zh/附件/Excerpt from Mother of All Demos (1968).ogg]]
 
 Du kan indlejre en PDF fil i dine noter med den samme syntaks. Du kan yderligere skrive`![[Min Fil.pdf#page=sidenummer]]` for at åbne indlejringen direkte på den specifikke side i PDF filen.
 

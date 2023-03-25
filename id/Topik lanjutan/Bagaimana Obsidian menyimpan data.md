@@ -1,4 +1,4 @@
-Kami yakin [[Obsidian#Kenapa kami berbeda|data Anda selalu menjadi milik dan dalam kendali Anda]]. Catatan Anda tersimpan dalam markdown, yang mana merupakan format terbuka yang berbasis pada berkas teks polos, dan harus terbaca di masa depan oleh komputer mana pun yang dapat menggunakan berkas teks. Anda dapat dengan mudah mengubac catatan di perangkat lunak lain, bahkan ketika masih terbuka di Obsidian.
+Kami yakin [[fr/Obsidian#Kenapa kami berbeda|data Anda selalu menjadi milik dan dalam kendali Anda]]. Catatan Anda tersimpan dalam markdown, yang mana merupakan format terbuka yang berbasis pada berkas teks polos, dan harus terbaca di masa depan oleh komputer mana pun yang dapat menggunakan berkas teks. Anda dapat dengan mudah mengubac catatan di perangkat lunak lain, bahkan ketika masih terbuka di Obsidian.
 
 ### Data per vault
  

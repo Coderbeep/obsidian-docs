@@ -12,4 +12,4 @@ Vi forstår, hvis du ikke er interesseret i en af vores betalings produkter lige
 
 - Hvis du kan anvender Obsidian til personligt brug, så overvej en [[Catalyst licens]]
 
-- Hvis du allerede har en Catalyst licens og du stadig ønsker at donere til Obsidian, så kan du støtte med en [[Obsidian Unlimited (donation)]]
+- Hvis du allerede har en Catalyst licens og du stadig ønsker at donere til Obsidian, så kan du støtte med en [[da/Bidrag til Obsidian/Obsidian Unlimited (donation)]]

@@ -2,7 +2,7 @@ Le permite convertir otras variaciones del formato Markdown y la convención de 
 
 Ahora mismo puedes convertir:
 
-- Roam #tags a [[tags]]
+- Roam #tags a [[da/Plugins/Tags]]
 - Roam `^^highlight^^` a `==highlight==`
 - Bear `::highlight::` a `==highlight==`.
 - Zettelkasten `[[UID]]` enlaces a enlaces completos `[[UID File Name]]`

@@ -2,9 +2,9 @@
 
 Puede incrustar archivos adjuntos como imágenes o audio en sus notas. Utilice la sintaxis `! [[Filename.png]]` así:
 
-![[Engelbart.jpg]]
+![[zh/附件/Engelbart.jpg]]
 
-![[Excerpt from Mother of All Demos (1968).ogg]]
+![[zh/附件/Excerpt from Mother of All Demos (1968).ogg]]
 
 Puede incrustar un archivo PDF en sus notas con la misma sintaxis. Además, puede escribir `! [[My File.pdf # page = number]]` para abrir esa página específica del PDF directamente.
 

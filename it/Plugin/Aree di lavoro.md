@@ -1,6 +1,6 @@
 Il plugin Aree di lavoro consente di salvare e caricare "Aree di lavoro". In ogni area di lavoro contiene la disposizione dei pannelli, lo stato attuale della barra laterale (espansa o compressa) e i file aperti.
 
-![[Pasted image 19.png]]
+![[ja/アタッチメント/Pasted image 19.png]]
 
 ### Salvare un'area di lavoro
 

@@ -6,7 +6,7 @@ La ventana en la que se abre un archivo es lo que llamamos un "panel". Puede ten
 
 #### Enlaces abiertos
 
-En general, puede hacer clic en un enlace a un archivo mientras mantiene presionada la tecla Ctrl (en Windows y Linux) o Cmd (en macOS) para abrirlo en un nuevo panel. Esto incluye hacer clic en archivos en [[Explorador de archivos]], [[Buscar]] resultados, [[Backlinks]], [[Vista de gráfico]], etc.
+En general, puede hacer clic en un enlace a un archivo mientras mantiene presionada la tecla Ctrl (en Windows y Linux) o Cmd (en macOS) para abrirlo en un nuevo panel. Esto incluye hacer clic en archivos en [[Explorador de archivos]], [[Buscar]] resultados, [[vi/Plugin/Backlinks]], [[Vista de gráfico]], etc.
 
 La única excepción notable está en el editor. Porque en el editor, un solo clic edita el texto del enlace en lugar de seguirlo,  `Ctrl / Cmd + Click` se utiliza para seguir el enlace. Por lo tanto, deberá mantener presionada la tecla Mayús además de Ctrl / Cmd para abrir el enlace en un nuevo panel.
 
